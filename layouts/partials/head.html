@@ -6,6 +6,7 @@
   <meta property="og:title" content="{{ .Site.Title }}" />
   <meta name="twitter:title" content="{{ .Site.Title | truncate 70 }}" />
   {{- else }}
+  <link rel=”icon” type=”image/ico” href=”/images/9748pepslogo.ico” />
   <title>{{ .Title }} - {{ .Site.Title }}</title>
   <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
   <meta name="twitter:title" content="{{ printf "%s - %s" .Title .Site.Title | truncate 70 }}" />
