@@ -245,8 +245,6 @@ img {
 .article-series .series-title a:active {
   color: gray;
 }
-.article-series .active {
-}
 
 .article-share {
   list-style-type: none;
@@ -274,8 +272,6 @@ img {
 
 .disqus-comments {
   margin-bottom: 40px;
-}
-.article-pager {
 }
 
 .toc {
@@ -308,15 +304,11 @@ img {
 .pager-newer {
   margin-right: 40px;
 }
-.pager-older {
-}
 .pager-noitem {
   color: gray;
 }
 
 /* About */
-.author {
-}
 .author-name {
   font-size: 1.2em;
   font-weight: bold;
@@ -366,8 +358,6 @@ img {
 }
 
 /* List page */
-.list {
-}
 .list .article {
   padding-bottom: 40px;
   margin-bottom: 40px;
@@ -389,10 +379,6 @@ img {
   float: left;
   margin: 0;
   margin-right: 8px;
-}
-.list .article-content {
-}
-.list .article-readmore {
 }
 .list .article-floatclear {
   clear: both;
@@ -559,10 +545,6 @@ img {
   stroke-width: 0;
   stroke: currentColor;
   fill: currentColor;
-}
-
-.404 h1 {
-  text-align: center;
 }
 
 /* Mobile */
