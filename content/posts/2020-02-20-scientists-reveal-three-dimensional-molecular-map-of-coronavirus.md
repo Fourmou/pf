@@ -6,77 +6,13 @@ date: 2020-02-20T21:37:17+00:00
 excerpt: US scientists have published in the journal "Science" the first triple molecular map of a section of the emerging coronavirus (Covid-19) responsible for infecting human cells,
 url: /scientists-reveal-three-dimensional-molecular-map-of-coronavirus/
 featured_image: /wp-content/uploads/2020/02/coronavirus-2.jpg
-tps_options:
-  - 'a:4:{s:7:"enabled";s:6:"global";s:21:"nav_vertical_position";s:6:"global";s:23:"nav_hide_on_first_slide";b:0;s:23:"slide_loading_mechanism";s:6:"global";}'
-androapp_post_notify:
-  - "off"
-ct_mission_news_last_updated:
-  - default
-ct_mission_news_post_layout_key:
-  - default
-ct_mission_news_featured_image_display:
-  - default
-saswp_person_schema_url_2565:
-  - /?p=3125
-saswp_person_schema_gender_2565:
-  - Male
-saswp_person_schema_image_2565_detail:
-  - 'a:3:{s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}'
-saswp_newsarticle_main_entity_of_page_2563:
-  - /?p=3125
-saswp_newsarticle_URL_2563:
-  - /?p=3125
-saswp_newsarticle_image_2563_detail:
-  - 'a:3:{s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}'
-saswp_newsarticle_headline_2563:
-  - (title)
-saswp_newsarticle_date_published_2563:
-  - 2020-02-20
-saswp_newsarticle_date_modified_2563:
-  - 2020-02-20
-saswp_newsarticle_name_2563:
-  - (title)
-saswp_newsarticle_word_count_2563:
-  - "1"
-saswp_newsarticle_main_entity_id_2563:
-  - /?p=3125
-saswp_newsarticle_author_name_2563:
-  - Chris Manoel
-saswp_newsarticle_author_image_2563_detail:
-  - 'a:3:{s:6:"height";s:2:"96";s:5:"width";s:2:"96";s:9:"thumbnail";s:75:"http://1.gravatar.com/avatar/d8092c477c0a2714e624cfed159e592e?s=96&d=mm&r=g";}'
-saswp_newsarticle_author_image_2563:
-  - "http://1.gravatar.com/avatar/d8092c477c0a2714e624cfed159e592e?s=96&d=mm&r=g"
-saswp_newsarticle_organization_name_2563:
-  - Vital Content
-saswp_newsarticle_organization_logo_2563_detail:
-  - 'a:3:{s:6:"height";s:2:"60";s:5:"width";s:3:"240";s:9:"thumbnail";s:82:"/wp-content/uploads/2019/10/cropped-logo-pepsfeeder.png";}'
-saswp_newsarticle_organization_logo_2563:
-  - /wp-content/uploads/2019/10/cropped-logo-pepsfeeder.png
-eg_vimeo_ratio:
-  - "1"
-eg_youtube_ratio:
-  - "1"
-eg_wistia_ratio:
-  - "1"
-eg_html5_ratio:
-  - "1"
-eg_soundcloud_ratio:
-  - "1"
-eg_custom_meta_216:
-  - "true"
-dpsp_networks_shares:
-  - 'a:1:{s:9:"pinterest";i:0;}'
-dpsp_networks_shares_last_updated:
-  - "1587400278"
 tags:
   - Emerging Covid-19 Infection of Human Cells
   - Science Magazine
   - Triple Molecular Corona Virus
   - US Scientists
 ---
-
 US scientists have published in the journal &#8220;Science&#8221; the first triple molecular map of a section of the emerging coronavirus (Covid-19) responsible for infecting human cells, an important step that may contribute to developing appropriate treatments and vaccines to counter the virus.
-
 The team of researchers from the University of Texas at Austin and the National Institutes of Health used the technique &#8220;Deep Electron Microscopy&#8221; (Nobel Laureate in Chemistry in 2017) to model a portion of the virus that attaches to human cells.
 
 The scientist Jason McClellan, who led the study, explained to France Press how it was prepared.

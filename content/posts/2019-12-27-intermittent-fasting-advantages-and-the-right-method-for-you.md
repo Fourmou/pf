@@ -6,30 +6,6 @@ date: 2019-12-27T07:13:38+00:00
 excerpt: Intermittent fasting or part-time fasting is not only the ideal introduction to ketosis, but it also has several advantages for your performance and performance.
 url: /intermittent-fasting-advantages-and-the-right-method-for-you/
 featured_image: /wp-content/uploads/2019/12/Intermittent-fasting.jpg
-tps_options:
-  - 'a:4:{s:7:"enabled";s:6:"global";s:21:"nav_vertical_position";s:6:"global";s:23:"nav_hide_on_first_slide";b:0;s:23:"slide_loading_mechanism";s:6:"global";}'
-ct_mission_news_last_updated:
-  - default
-ct_mission_news_post_layout_key:
-  - default
-ct_mission_news_featured_image_display:
-  - default
-eg_vimeo_ratio:
-  - "1"
-eg_youtube_ratio:
-  - "1"
-eg_wistia_ratio:
-  - "1"
-eg_html5_ratio:
-  - "1"
-eg_soundcloud_ratio:
-  - "1"
-eg_custom_meta_216:
-  - 'true'
-dpsp_networks_shares:
-  - 'a:1:{s:9:"pinterest";i:0;}'
-dpsp_networks_shares_last_updated:
-  - "1588732814"
 tags:
   - best diet for weight loss
   - diet plans after christmas
