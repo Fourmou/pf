@@ -3,7 +3,6 @@ title: On Amazon, coronavirus supplies are proliferating — and selling fast
 author: Rose Fooks
 type: post
 date: 2020-02-29T13:26:37+00:00
-excerpt: 'Amazon said on Thursday that it blocked more than a million items from sale on its marketplace in recent weeks that made false claims about defending against the novel coronavirus, as schemers across the globe looked to make a quick buck amid a global health threat. But what’s left when searching “coronavirus” or “Covid-19” on&hellip;'
 url: /on-amazon-coronavirus-supplies-are-proliferating-and-selling-fast/
 featured_image: /wp-content/uploads/2020/02/3429/on-amazon-coronavirus-supplies-are-proliferating-and-selling-fast.jpg
 tags:
