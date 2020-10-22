@@ -5,7 +5,7 @@ type: post
 date: 2020-02-28T21:10:22+00:00
 url: /why-have-we-still-not-found-extraterrestrials/
 featured_image: /wp-content/uploads/2020/02/extraterrestrial.jpg
-tags:  
+tags:
 	- extraterrestrials
 	- Mars
 ---
