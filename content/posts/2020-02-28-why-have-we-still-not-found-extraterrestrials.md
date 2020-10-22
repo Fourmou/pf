@@ -6,8 +6,8 @@ date: 2020-02-28T21:10:22+00:00
 url: /why-have-we-still-not-found-extraterrestrials/
 featured_image: /wp-content/uploads/2020/02/extraterrestrial.jpg
 tags:
-	- extraterrestrials
-	- Mars
+  - ExtraTerrestrials
+  - Mars
 ---
 The famous British astrophysicist Stephen Hawking, who died today from Charcot&#8217;s disease, was sure of it: life exists elsewhere and we will have proof of it by the end of the century. For several months now, alien hunters have been on deck again: NASA announced last February the discovery of another solar system located 40 light-years from Earth. Will we ever find living beings there? If the American Space Agency is to believe, three of the seven planets spotted around the star Trappist-1 could indeed present conditions favorable to life. After abundantly feeding science fiction films, the hypothesis of extraterrestrial life is now taken very seriously by many scientists. Because, in our galaxy alone, there would be hundreds of billions of habitable planets: a number so dizzying that it makes statistically unlikely the fact that life only developed on our planet. Astrophysicist Stephen Hawking declares himself &#8220;more convinced than ever that we are not alone in the Universe&#8221;. Seth Shostak, a researcher at Seti ( _Search for ExtraTerrestrial Intelligence Institute_), says that we will find life in space by the end of the century. Really? For the past thirty years, hundreds of millions of dollars have been invested in this American research institute which relentlessly scans the sky for signals from another planet. Despite everything, the little green men remain untraceable. If they do exist, why have we not yet detected their trace? Here are six hypotheses to answer this question.
 
