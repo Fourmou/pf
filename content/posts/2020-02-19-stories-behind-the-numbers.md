@@ -1,23 +1,15 @@
 ---
-title: "America Counts: Stories Behind the Numbers"
+title: 'America Counts: Stories Behind the Numbers'
 author: Chris Manoel
 type: post
-date: 2020-02-19T18:47:04+00:00
+date: 2020-02-19T18:47:04.000Z
 excerpt: The U.S. Statistics Bureau is uniting with schools and national accomplices to help guarantee the 2020 Census includes all kids living in the United States.
 url: /stories-behind-the-numbers/
-featured_image: /wp-content/uploads/2020/02/young-children-census.jpg
-tags:
-  - "2020"
-  - America Counts
-  - Census
-  - Census Bureau
-  - Cleveland
-  - Great Lakes Science Center
-  - Young Children
+image: /wp-content/uploads/2020/02/young-children-census.jpg
+tags: ['2020', America Counts, Census, Census Bureau, Cleveland, Great Lakes Science Center, Young Children]
 ---
 
   **Census Bureau Joins With National and Local Organizations to Count Young Children in 2020**
-
 
 The U.S. Statistics Bureau is uniting with schools and national accomplices to help guarantee the 2020 Census includes all kids living in the United States.
 
@@ -27,7 +19,7 @@ As per the Census Bureau, an expected 1 million youngsters younger than 5 were n
 
 Think about this: An infant or baby included in the 2020 Census will complete primary school in time for the 2030 Census. Being included in the registration impacts basic youth administrations for the following 10 years.
 
-Aftereffects of the 2020 Census will advise government subsidizes that networks get for administrations including those that advantage kids, for example, Head Start, specialized curriculum, after-school programs, school lunch help, youngsters&#8217; medical coverage, kid care, and lodging support.
+Aftereffects of the 2020 Census will advise government subsidizes that networks get for administrations including those that advantage kids, for example, Head Start, specialized curriculum, after-school programs, school lunch help, youngsters’ medical coverage, kid care, and lodging support.
 
 ## **A Family Festival in Cleveland**
 
@@ -45,13 +37,13 @@ Youngsters living in phonetically separated or low-pay family units and the indi
 
 Here are Census Bureau rules for tallying kids:
 
-Include them in the home where they live and rest more often than not, regardless of whether their folks don&#8217;t live there.
+Include them in the home where they live and rest more often than not, regardless of whether their folks don’t live there.
 
-In the event that a youngster parts time between two homes, check them where they remain frequently. On the off chance that their time is equally partitioned, or you don&#8217;t have a clue, tally them where they are remaining on April 1, 2020.
+In the event that a youngster parts time between two homes, check them where they remain frequently. On the off chance that their time is equally partitioned, or you don’t have a clue, tally them where they are remaining on April 1, 2020.
 
 On the off chance that a kid moves during March or April 2020, tally them at the location where they are living on April 1, 2020.
 
-Tally kids that don&#8217;t have a perpetual spot to live and are remaining with you on April 1, 2020, regardless of whether they are just staying incidentally.
+Tally kids that don’t have a perpetual spot to live and are remaining with you on April 1, 2020, regardless of whether they are just staying incidentally.
 
 Check infants at the home where they will live and rest more often than not, regardless of whether they are still in the medical clinic on April 1, 2020.
 
@@ -59,9 +51,9 @@ Check infants at the home where they will live and rest more often than not, reg
 
 The Census Bureau is likewise working with schools and instructors the nation over who assume a key job in ensuring all kids are checked.
 
-The Census Bureau&#8217;s Statistics in Schools (SIS) program has built up a suite of materials intended for youngsters under age 5 to be utilized in a study hall or at home.
+The Census Bureau’s Statistics in Schools (SIS) program has built up a suite of materials intended for youngsters under age 5 to be utilized in a study hall or at home.
 
-Among them: a storybook about the registration, enjoyment, and drawing in video arrangement, study hall exercises, and a peppy melody about the evaluation. A significant number of materials are accessible in English and Spanish. The SIS program gives materials to understudies through evaluation 12 — and for grown-ups learning English as a subsequent language.
+Among them: a storybook about the registration, enjoyment, and drawing in video arrangement, study hall exercises, and a peppy melody about the evaluation. A significant number of materials are accessible in English and Spanish. The SIS program gives materials to understudies through evaluation 12 --- and for grown-ups learning English as a subsequent language.
 
 Guardians and teachers can likewise study the significance of including small kids right now and this FAQ report.
 

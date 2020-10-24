@@ -2,15 +2,11 @@
 title: A harmful ingredient hidden in vegetable juices
 author: Ashlie D. Stevens
 type: post
-date: 2020-02-23T16:32:10+00:00
-excerpt: Vegetable juices are a great way to get nutrients without excessive calories, so they can substitute for a proportion of the actual vegetables, and without the effort of peeling, slicing or cooking.
+date: 2020-02-23T16:32:10.000Z
+excerpt: 'Vegetable juices are a great way to get nutrients without excessive calories, so they can substitute for a proportion of the actual vegetables, and without the effort of peeling, slicing or cooking.'
 url: /a-harmful-ingredient-hidden-in-vegetable-juices/
-featured_image: /wp-content/uploads/2020/02/vegetable-juice.jpg
-tags:
-  - calories
-  - nutrients
-  - sugar
-  - Vegetable juices
+image: /wp-content/uploads/2020/02/vegetable-juice.jpg
+tags: [calories, nutrients, sugar, Vegetable juices]
 ---
 
 Vegetable juices are a great way to get nutrients without excessive calories, so they can substitute for a proportion of the actual vegetables, and without the effort of peeling, slicing or cooking.

@@ -1,29 +1,23 @@
 ---
-title: Does hair coloring cause breast cancer? That’s what you should know
+title: Does hair coloring cause breast cancer? That's what you should know
 author: Ashlie D. Stevens
 type: post
-date: 2019-12-04T15:05:46+00:00
-excerpt: Breast cancer is 14 percent more likely to occur in women who have dyed their hair, according to a study by a British surgeon recently
+date: 2019-12-04T15:05:46.000Z
+excerpt: 'Breast cancer is 14 percent more likely to occur in women who have dyed their hair, according to a study by a British surgeon recently'
 url: /does-hair-coloring-cause-breast-cancer/
-featured_image: /wp-content/uploads/2019/12/breast-cancer.jpg
-tags:
-  - breast cancer
-  - breast cancer awareness
-  - inflammatory breast cancer
-  - lump in breast
-  - mammogram
-  - mastectomy
+image: /wp-content/uploads/2019/12/breast-cancer.jpg
+tags: [breast cancer, breast cancer awareness, inflammatory breast cancer, lump in breast, mammogram, mastectomy]
 ---
 
-NEW YORK (Reuters Health) &#8211; Breast cancer is 14 percent more likely to occur in women who have dyed their hair, according to a study by a British surgeon recently.
+NEW YORK (Reuters Health) -- Breast cancer is 14 percent more likely to occur in women who have dyed their hair, according to a study by a British surgeon recently.
 
 It is best not to dye her hair more than two to three times a year, according to a report in The Independent, quoting a doctor.
 
-He advised the need to resort to natural dyes, such as henna and beetroot. &#8220;What I find disturbing is that some women dye their hair once every four weeks,&#8221; he told the newspaper.
+He advised the need to resort to natural dyes, such as henna and beetroot. "What I find disturbing is that some women dye their hair once every four weeks," he told the newspaper.
 
-&#8220;There is no doubt that we need more research to prove the results of our study. But we believe that exposure to chemical pigments increases the risk of breast cancer.&#8221;
+"There is no doubt that we need more research to prove the results of our study. But we believe that exposure to chemical pigments increases the risk of breast cancer."
 
-&#8220;The association between hair coloring and breast cancer does not mean that dye is the primary cause and that disease is the inevitable consequence,&#8221; he said on Facebook.
+"The association between hair coloring and breast cancer does not mean that dye is the primary cause and that disease is the inevitable consequence," he said on Facebook.
 
 He also tweeted that women over the age of 40 should undergo regular check-ups and that they could use natural, non-hazardous ingredients to dye hair.
 

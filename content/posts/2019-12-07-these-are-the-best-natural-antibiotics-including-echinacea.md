@@ -1,40 +1,35 @@
 ---
-title: These are the best natural antibiotics, including Echinacea
+title: 'These are the best natural antibiotics, including Echinacea'
 author: Ashlie D. Stevens
 type: post
-date: 2019-12-07T17:41:37+00:00
-excerpt: There are different herbs that can act as natural antibiotics, as in addition to their role in fighting winter diseases, these herbs play an effective role against some skin diseases
+date: 2019-12-07T17:41:37.000Z
+excerpt: 'There are different herbs that can act as natural antibiotics, as in addition to their role in fighting winter diseases, these herbs play an effective role against some skin diseases'
 url: /these-are-the-best-natural-antibiotics-including-echinacea/
-featured_image: /wp-content/uploads/2019/12/natural-antibiotics.jpg
-tags:
-  - Echinacea bacteria
-  - herbs
-  - natural antibiotics
-  - skin diseases
-  - winter diseases
+image: /wp-content/uploads/2019/12/natural-antibiotics.jpg
+tags: [Echinacea bacteria, herbs, natural antibiotics, skin diseases, winter diseases]
 ---
 
 There are different herbs that can act as natural antibiotics, as in addition to their role in fighting winter diseases, these herbs play an effective role against some skin diseases. But it cannot replace the industrial antibiotics that your doctor prescribes.
 
 One of the most well-known herbs in performing the role of natural antibiotics is Echinacea plants, the largest sorghum, propolis, or what is known as bee gum.
 
-Echinacea is antibacterial and antifungal  
-Echinacea &#8211; or Echinacea &#8211; is a plant that is very familiar to Native Americans in North America, and they used it to treat snake bites and wounds. Its root contains several active ingredients with properties that help revitalize the immune system. Its many components work together to counter unwanted objects and improve the body&#8217;s immune defense.
+Echinacea is antibacterial and antifungal
+Echinacea -- or Echinacea -- is a plant that is very familiar to Native Americans in North America, and they used it to treat snake bites and wounds. Its root contains several active ingredients with properties that help revitalize the immune system. Its many components work together to counter unwanted objects and improve the body's immune defense.
 
-&#8220;This plant contains multiple polysaccharides that protect cells from attacks of viruses and alkalis with anti-bacterial and anti-fungal properties thanks to their anti-inflammatory effect,&#8221; the author quoted the pharmacist, Louth Garcia Garcia Toro, as saying.
+"This plant contains multiple polysaccharides that protect cells from attacks of viruses and alkalis with anti-bacterial and anti-fungal properties thanks to their anti-inflammatory effect," the author quoted the pharmacist, Louth Garcia Garcia Toro, as saying.
 
 Experts recommend eating this kind of herbs from one to three months since the beginning of winter to prevent recurring infections. It can also be used for prevention when the body is under stress or a state of physical or psychological weakness that leads to a decrease in the immune system.
 
-Great Cordoba is an ideal ally for the skin  
+Great Cordoba is an ideal ally for the skin
 The roots of this plant are rich in antiseptics that help fight skin diseases such as rashes or acne. This plant spreads a lot in the temperate regions.
 
-According to the pharmacy expert, &#8220;The larger Cordoba root is an important source of insulin, which is starch-like carbohydrates, similar to penicillin. In addition, this plant contains what are known as polyphenols, which are substances that have antibacterial and antifungal properties. These substances are of great value in the treatment of many skin diseases such as acne, eczema, boils, abscesses, or even psoriasis. &#8221;
+According to the pharmacy expert, "The larger Cordoba root is an important source of insulin, which is starch-like carbohydrates, similar to penicillin. In addition, this plant contains what are known as polyphenols, which are substances that have antibacterial and antifungal properties. These substances are of great value in the treatment of many skin diseases such as acne, eczema, boils, abscesses, or even psoriasis. "
 
 This plant also contains acidic alcohol that increases its antiseptic properties. These compounds purify the body of the organism from all toxins that contribute to the appearance of pimples and promote their removal at the level of the liver and kidneys.
 
 It is also recommended to use larger sorghum to treat oily skin problems, as it becomes more effective when combined with other plants, similar to the Pansy plant.
 
-Propolis or bee gum  
+Propolis or bee gum
 The writer stated that propolis is a resinous, resinous, and balsamic material with viscous coherence, obtained by bees from tree buds and some plants through his jaws, to finish processing them later inside the beehive with many secretions (candles and saliva secretions).
 
 Generally, propolis is obtained from several trees, such as willow, chestnut, oak, pine, cherry, poplar, birch, juniper, and some herbal plants.

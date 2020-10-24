@@ -2,13 +2,11 @@
 title: What This Man Is Doing For Disabled Dogs In His Hometown Is Simply Heroic
 author: Nicole Karlis
 type: post
-date: 2019-09-06T16:04:11+00:00
+categories: entertainment
+date: 2019-09-06T16:04:11.000Z
 url: /what-this-man-is-doing-for-disabled-dogs-in-his-hometown-is-simply-heroic/
-featured_image: /wp-content/uploads/2019/09/hero-man-rescue-dogs-370x208.jpg
-tags:
-  - animals
-  - doinggood
-  - heartwarming
+image: /wp-content/uploads/2019/09/hero-man-rescue-dogs-370x208.jpg
+tags: [animals, doinggood, heartwarming]
 ---
 
 A man in Serbia is giving disabled dogs in his country the chance to run again with the help of the doggy wheelchairs he makes from scratch.
@@ -16,9 +14,6 @@ It all started when Dragan Dimitrijevic made a set of wheels for his dog, Mica a
 
 A word about Mica and her wheelchair swiftly spread among dog lovers around Serbia, and the owners of dogs with similar problems started calling Dragan for help. Now three years later, the computer programmer from Belgrade has made just over 80 wheelchairs for disabled dogs and cats.
 
-  
-    (source Associated Press)
-  
-  
-    &#8220;I have a soft spot for dogs,&#8221; Dragan told the Associated Press. &#8220;A wheelchair is not a cure, but it enables them to run, sniff, do all the things other dogs normally do.&#8221; At the end of the day, that is all a dog really wants to do. Great job, Mr. Dimitrijevic!
-  
+(source Associated Press)
+
+“I have a soft spot for dogs,” Dragan told the Associated Press. “A wheelchair is not a cure, but it enables them to run, sniff, do all the things other dogs normally do.” At the end of the day, that is all a dog really wants to do. Great job, Mr. Dimitrijevic!

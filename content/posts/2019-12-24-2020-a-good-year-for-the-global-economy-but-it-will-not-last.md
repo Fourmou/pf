@@ -1,20 +1,17 @@
 ---
-title: 2020 a good year for the global economy, but it will not last
+title: '2020 a good year for the global economy, but it will not last'
 author: Matthew Rozsa
 type: post
-date: 2019-12-24T05:40:32+00:00
-excerpt: One of the reasons that enabled stocks to maintain their cohesion in the markets is the presence of a safe trade agreement with China, but the prevailing tension will continue until next year and perhaps after it.
+date: 2019-12-24T05:40:32.000Z
+excerpt: 'One of the reasons that enabled stocks to maintain their cohesion in the markets is the presence of a safe trade agreement with China, but the prevailing tension will continue until next year and perhaps after it.'
 url: /2020-a-good-year-for-the-global-economy-but-it-will-not-last/
-featured_image: /wp-content/uploads/2019/12/coffee-stimulant-alternatives-1.jpg
-tags:
-  - "2020"
-  - global economy
-  - The Independent
+image: /wp-content/uploads/2019/12/coffee-stimulant-alternatives-1.jpg
+tags: ['2020', global economy, The Independent]
 ---
 
 One of the reasons that enabled stocks to maintain their cohesion in the markets is the presence of a safe trade agreement with China, but the prevailing tension will continue until next year and perhaps after it.
 
-The writer and economist Hamish McCray said &#8211; in his report to the British newspaper &#8220;The Independent&#8221; &#8211; that although 2019 was an exceptional year in terms of the policy, it is unfortunate that the economy was collapsing during this year.
+The writer and economist Hamish McCray said -- in his report to the British newspaper "The Independent" -- that although 2019 was an exceptional year in terms of the policy, it is unfortunate that the economy was collapsing during this year.
 
 Despite the uproar caused by political developments at the global level, it was a modest year for the international economy. In fact, this was reflected in stock prices around the world, as US and European markets approached all-time highs.
 

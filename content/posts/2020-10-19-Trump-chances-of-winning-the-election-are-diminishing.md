@@ -1,12 +1,11 @@
 ---
-title: 'Trump chances of winning the election are diminishing'
-author: Shira Tarlo
+title: Trump chances of winning the election are diminishing
+author: Chris Manoel
 type: post
-date: 2020-10-19T09:37:58+00:00
+date: 2020-10-19T09:37:58.000Z
 url: /Trump chances of winning the election are diminishing/
-tags:
-  - Trump
-  - election
+image: /wp-content/uploads/2020/10/uselections.jpg
+tags: [Trump, election]
 ---
 
 The American newspaper "The Hill" published on its website an article by writer Niall Stanig in which he affirmed that President Donald Trump's chances of winning a second term are diminishing, while opinion polls indicate that his Democratic opponent, Joe Biden, has advanced by a large margin that is difficult for him to overcome.

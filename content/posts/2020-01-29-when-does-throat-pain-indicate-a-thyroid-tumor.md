@@ -2,17 +2,11 @@
 title: When does throat pain indicate a thyroid tumor
 author: Ashlie D. Stevens
 type: post
-date: 2020-01-29T18:48:45+00:00
-excerpt: The German Association of Otolaryngologists said that sore throat is not due to a common cold, especially if it is not accompanied by the distinct symptoms of a cold, which are runny nose, sneezing, and coughing.
+date: 2020-01-29T18:48:45.000Z
+excerpt: 'The German Association of Otolaryngologists said that sore throat is not due to a common cold, especially if it is not accompanied by the distinct symptoms of a cold, which are runny nose, sneezing, and coughing.'
 url: /when-does-throat-pain-indicate-a-thyroid-tumor/
-featured_image: /wp-content/uploads/2020/01/thyroid-throat-pain.jpg
-tags:
-  - cold
-  - coughing
-  - German Society of Otolaryngologists
-  - runny nose
-  - sneezing
-  - sore throat
+image: /wp-content/uploads/2020/01/thyroid-throat-pain.jpg
+tags: [cold, coughing, German Society of Otolaryngologists, runny nose, sneezing, sore throat]
 ---
 
 The German Association of Otolaryngologists said that sore throat is not due to a common cold, especially if it is not accompanied by the distinct symptoms of a cold, which are runny nose, sneezing, and coughing.

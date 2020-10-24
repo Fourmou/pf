@@ -2,48 +2,44 @@
 title: Learn to gain charisma and Become more attractive
 author: Rose Fooks
 type: post
-date: 2020-02-20T21:47:19+00:00
-excerpt: There is a popular belief that successful people in life possess charisma, due to the many examples of distinguished and prominent people in society
+categories: lifestyle
+date: 2020-02-20T21:47:19.000Z
+excerpt: 'There is a popular belief that successful people in life possess charisma, due to the many examples of distinguished and prominent people in society'
 url: /learn-to-gain-charisma-and-become-more-attractive/
-featured_image: /wp-content/uploads/2020/02/leader.jpg
-tags:
-  - attractive
-  - charisma
-  - leaders
-  - Learn
-  - Success
+image: /wp-content/uploads/2020/02/leader.jpg
+tags: [attractive, charisma, leaders, Learn, Success]
 ---
 
 There is a popular belief that successful people in life possess charisma, due to the many examples of distinguished and prominent people in society, thanks to their possession of this trait. However, many questions remain regarding the definition of charisma, how it is acquired, and its impact on our daily lives.
 
 In a report published by the Spanish journal Psychology Online, writer Jimma Aroffat says that the German sociologist and philosopher Max Weber was the first to address the character of charisma and its impact on people, and enable the person who possesses it to exercise some kind of power over those around him, as the most prominent politicians and leaders around the world have charisma.
 
-**Charismatic personality traits**  
+**Charismatic personality traits**
 A charismatic person has the ability to make his voice heard, communicate his thoughts and get people to embrace it and spread it. However, a charismatic person is not only satisfied with communicating his voice, but rather is a good listener for those around him, because in this way he makes them feel appreciated and confident, and it appears to them that their ideas and suggestions are equally important and can be the best.
 
 The charismatic person also tends to establish a trusting relationship with others, as he is the kind of leader who is seen by everyone as a reliable person, and he is also a person who is willing to admit his mistakes and accept and correct them, and to show that he is aware of his limits and duties.
 
 Despite the qualities of humility and openness, the charismatic person is not of the type likened to the majority, as it is motivated by a desire for excellence, and the relentless pursuit of developing himself, and also helping those around him to develop.
 
-**A difference between charismatic and those who want to excel**  
+**A difference between charismatic and those who want to excel**
 Charismatic people develop all of these skills thanks to their futuristic vision and creativity. They are characterized by intelligence and ingenuity in thinking and implementation differently from others. Therefore, the solutions and changes that they propose appear to their surroundings as unique and beneficial.
 
 And unlike those who want to excel and excel by showing the faults and missteps of others, a charismatic person does not criticize people, for the simple reason that when a person is criticized and blamed by someone else he stops trusting him. The charismatic person also uses the pronoun we are when speaking instead of me because he is not selfish and arrogant.
 
-**How can charisma be promoted?**  
+**How can charisma be promoted?**
 Unlike other personality traits, charisma can be changed and worked to develop it, as this trait is mainly based on a sense of self-worth, and there are a set of tips that can be adopted to further this:
 
-2. Train Yourself: Be active and work hard to improve your physical structure and appearance, increase your energy and enhance your presence.
+2.  Train Yourself: Be active and work hard to improve your physical structure and appearance, increase your energy and enhance your presence.
 
-3. Be positive: People usually stay away from the company of negative people, so you should familiarize yourself with noticing the positive aspects of life.
+3.  Be positive: People usually stay away from the company of negative people, so you should familiarize yourself with noticing the positive aspects of life.
 
-4. Do not compare yourself with others: every person in this life is special, and if you compare yourself with others constantly, this will undermine your self-esteem.
+4.  Do not compare yourself with others: every person in this life is special, and if you compare yourself with others constantly, this will undermine your self-esteem.
 
-5. Take care of your image: Every person needs to achieve physical and emotional security so that he appears confident in front of others and appears in a bright image.
+5.  Take care of your image: Every person needs to achieve physical and emotional security so that he appears confident in front of others and appears in a bright image.
 
-6. Enhance your speaking abilities: Experts are advised to use open and constructive questions when engaging with others, to make the other party feel comfortable.
+6.  Enhance your speaking abilities: Experts are advised to use open and constructive questions when engaging with others, to make the other party feel comfortable.
 
-7. Be humble: Despite the importance of self-esteem and confidence, it is also necessary to show humility and appreciation to others.
+7.  Be humble: Despite the importance of self-esteem and confidence, it is also necessary to show humility and appreciation to others.
 
 **11 tips to enjoy strong charisma**
 

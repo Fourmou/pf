@@ -2,15 +2,12 @@
 title: Tips for protection from radiation of smartphones
 author: Rose Fooks
 type: post
-date: 2019-12-02T13:39:39+00:00
+categories: lifestyle
+date: 2019-12-02T13:39:39.000Z
 excerpt: The German Federal Office for Radiation Protection has recommended some preventive measures to protect against the risk of radiation from smartphones
 url: /tips-for-protection-from-radiation-of-smartphones/
-featured_image: /wp-content/uploads/2019/12/smartphone-radiation-measurment.jpg
-tags:
-  - Electromagnetic
-  - Headphones
-  - Radiation Protection
-  - Smartphones
+image: /wp-content/uploads/2019/12/smartphone-radiation-measurment.jpg
+tags: [Electromagnetic, Headphones, Radiation Protection, Smartphones]
 ---
 
 The German Federal Office for Radiation Protection has recommended some preventive measures to protect against the risk of radiation from smartphones.
