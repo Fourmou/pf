@@ -1,4 +1,3 @@
-
 <div class="site-footer">
   <p>Get all the latest interesting, hilarious, and mind-blowing news & stories on the Web.</p>
   <div class="copyright">{{ .Site.Copyright | safeHTML }}</div>
@@ -10,11 +9,13 @@
       </a>
     </li>
     {{- end }}
-        {{- range .Site.Menus.footer }}
-    <li class="site-footer-item-{{ .Identifier }}"><a href="{{ .URL | safeURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+    {{- range .Site.Menus.footer }}
+    <li class="site-footer-item-{{ .Identifier }}"><a href="{{ .URL | safeURL }}" title="{{ .Name }}">{{ .Name }}</a>
+    </li>
     {{- end }}
   </ul>
   <div class="powerdby">
+    {{ partial "social.html" . }}
   </div>
 </div>
 {{ template "_internal/google_analytics.html" . }}
