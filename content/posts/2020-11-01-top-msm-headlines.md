@@ -1,9 +1,11 @@
 ---
-layout: blog
 title: Top MSM headlines
+author: Chris Manoel
+type: post
 date: 2020-11-01T11:06:32.468Z
-thumbnail: /images/uploads/mainstream-media.png
-rating: 0
+url: /Top msm headlines/
+thumbnail: ../static/images/uploads/mainstream-media.png
+tags: [Trump, election]
 ---
 ## NYT
 

@@ -6,9 +6,7 @@
   {{ partial "header.html" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "footer.html" . }}
-  {{ if hugo.IsProduction }}
   {{ partial "cookie-notice.html" }}
-  {{ end }}
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
