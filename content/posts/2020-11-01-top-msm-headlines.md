@@ -4,7 +4,7 @@ author: Chris Manoel
 type: post
 date: 2020-11-01T11:06:32.468Z
 url: /Top msm headlines/
-image: ../static/images/uploads/mainstream-media.png
+image: /wp-content/uploads/mainstream-media.png
 tags: [Trump, election]
 ---
 ## NYT
