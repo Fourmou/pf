@@ -6,6 +6,8 @@ disqusShortname = "pepsfeeder-com-1"
 # google analytics tracking id
 googleAnalytics = "UA-151759850-1"
 
+summaryLength = 25
+
 googlefonts = "https://fonts.googleapis.com/css?family=Merriweather|Fira+Mono|Droid+Sans|Fira+Code"
 
 # Copyright notice. This is displayer in the footer.
