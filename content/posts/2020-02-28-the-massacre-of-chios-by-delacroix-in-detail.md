@@ -1,5 +1,6 @@
 ---
 title: '"The Massacre of Chios" by Delacroix in detail'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

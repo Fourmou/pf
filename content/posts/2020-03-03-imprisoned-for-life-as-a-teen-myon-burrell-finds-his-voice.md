@@ -1,5 +1,6 @@
 ---
 title: 'Imprisoned for life as a teen, Myon Burrell finds his voice'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-03T22:21:22.000Z

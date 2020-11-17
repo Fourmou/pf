@@ -1,5 +1,6 @@
 ---
 title: 'Joe Biden, nominee-in-waiting. And waiting. And waiting.'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-20T03:16:38.000Z

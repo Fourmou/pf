@@ -1,5 +1,6 @@
 ---
 title: 4 Crafting Staples to Make Spooktacular DIY Halloween Decorations
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-06-28T08:11:23.000Z

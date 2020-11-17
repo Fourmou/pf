@@ -1,5 +1,6 @@
 ---
 title: Virus toll in Iran climbs as lockdowns deepen across Mideast
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-16T12:17:32.000Z

@@ -1,5 +1,6 @@
 ---
 title: The healthiest and easiest Mediterranean diet to follow
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-02-18T21:06:11.000Z

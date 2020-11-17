@@ -1,5 +1,6 @@
 ---
 title: 'Scientifically, living near the sea preserves mental health'
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

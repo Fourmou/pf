@@ -1,5 +1,6 @@
 ---
 title: Brexit Project moves up a gear
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-23T05:02:45.000Z

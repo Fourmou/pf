@@ -1,5 +1,6 @@
 ---
 title: Are rich people happier than other people?
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

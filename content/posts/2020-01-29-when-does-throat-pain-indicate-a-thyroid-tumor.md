@@ -1,5 +1,6 @@
 ---
 title: When does throat pain indicate a thyroid tumor
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-01-29T18:48:45.000Z

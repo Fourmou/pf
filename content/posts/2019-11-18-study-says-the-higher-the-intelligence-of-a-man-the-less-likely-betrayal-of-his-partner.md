@@ -1,5 +1,6 @@
 ---
 title: Study says the higher the intelligence of a man the less likely betrayal of his partner
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-11-18T07:36:50.000Z

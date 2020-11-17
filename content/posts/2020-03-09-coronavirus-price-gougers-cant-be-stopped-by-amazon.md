@@ -1,5 +1,6 @@
 ---
 title: Coronavirus price gougers can't be stopped by Amazon
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-09T02:23:10.000Z

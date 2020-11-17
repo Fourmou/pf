@@ -1,5 +1,6 @@
 ---
 title: Asia urges vigilance to maintain hard-won infection drops
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-16T07:22:51.000Z

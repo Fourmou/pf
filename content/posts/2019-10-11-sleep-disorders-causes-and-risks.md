@@ -1,5 +1,6 @@
 ---
 title: Sleep disorders .. What causes them? Where are the risks?
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-10-11T13:34:21.000Z

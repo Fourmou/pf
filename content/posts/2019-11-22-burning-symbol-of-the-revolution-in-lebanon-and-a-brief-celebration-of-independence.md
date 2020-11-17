@@ -1,5 +1,6 @@
 ---
 title: Burning symbol of the Revolution in Lebanon and a brief celebration of independence
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-22T11:02:38.000Z

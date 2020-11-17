@@ -1,5 +1,6 @@
 ---
 title: 'Iraq officials: Rocket attack hits base housing US troops'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-14T11:18:13.000Z

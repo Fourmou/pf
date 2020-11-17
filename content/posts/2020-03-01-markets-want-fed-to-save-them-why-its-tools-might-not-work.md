@@ -1,5 +1,6 @@
 ---
 title: Markets want Fed to save them. Why its tools might not work.
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-01T17:27:31.000Z

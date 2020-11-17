@@ -1,5 +1,6 @@
 ---
 title: 'Pandemic increasingly takes over daily lives, roils markets'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-13T09:26:22.000Z

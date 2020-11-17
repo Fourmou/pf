@@ -14,6 +14,12 @@ collections:
       - { label: "Type", name: "type", widget: "string", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
       - {
+          label: "Categories",
+          name: "categories",
+          widget: "list",
+          default: "news",
+        }
+      - {
           label: "Author",
           name: "author",
           widget: "string",

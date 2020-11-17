@@ -1,5 +1,6 @@
 ---
 title: Oscar dream evaporates .. Cinema theaters reject the "Irish" film
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-10-11T12:48:03.000Z

@@ -1,5 +1,6 @@
 ---
 title: Google's coronavirus website isn't what Trump described
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-16T11:18:53.000Z

@@ -1,5 +1,6 @@
 ---
 title: Improve the performance of the mind and Protect your memory from early Alzheimer's
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

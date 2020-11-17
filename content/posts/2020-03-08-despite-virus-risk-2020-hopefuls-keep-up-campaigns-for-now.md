@@ -1,5 +1,6 @@
 ---
 title: 'Despite virus risk, 2020 hopefuls keep up campaigns for now'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-08T21:19:16.000Z

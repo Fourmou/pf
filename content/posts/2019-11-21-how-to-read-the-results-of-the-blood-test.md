@@ -1,5 +1,6 @@
 ---
 title: How to read the results of the blood test?
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-21T09:59:44.000Z

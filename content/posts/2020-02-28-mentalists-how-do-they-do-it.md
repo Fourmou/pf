@@ -1,5 +1,6 @@
 ---
 title: 'Mentalists: how do they do it?'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

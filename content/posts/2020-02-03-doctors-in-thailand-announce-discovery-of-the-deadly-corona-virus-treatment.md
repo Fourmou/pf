@@ -1,5 +1,6 @@
 ---
 title: Doctors in Thailand announce discovery of the deadly corona virus treatment
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-02-03T13:00:00.000Z

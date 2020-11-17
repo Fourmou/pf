@@ -1,5 +1,6 @@
 ---
 title: US hospitals brace for ‘tremendous strain' from new virus
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-13T22:18:25.000Z

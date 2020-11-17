@@ -1,5 +1,6 @@
 ---
 title: 'Clearview AI, the controversial facial recognition company, has been breached'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T13:51:44.000Z

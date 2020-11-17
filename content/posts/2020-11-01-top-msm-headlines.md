@@ -1,5 +1,6 @@
 ---
 title: Top MSM headlines
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-11-01T11:06:32.468Z

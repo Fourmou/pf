@@ -1,5 +1,6 @@
 ---
 title: 'Bernie Sanders: "Here is the message to Russia: Stay out of American elections.'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-21T22:58:51.000Z

@@ -1,5 +1,6 @@
 ---
 title: 'Trump trial: Democrats take new measures, half Americans support president impeachment'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-11T11:44:24.000Z

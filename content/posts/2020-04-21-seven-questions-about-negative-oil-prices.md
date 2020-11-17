@@ -1,5 +1,6 @@
 ---
 title: Seven questions about negative oil prices
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-04-21T13:45:24.000Z

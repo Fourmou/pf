@@ -1,5 +1,6 @@
 ---
 title: A harmful ingredient hidden in vegetable juices
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-02-23T16:32:10.000Z

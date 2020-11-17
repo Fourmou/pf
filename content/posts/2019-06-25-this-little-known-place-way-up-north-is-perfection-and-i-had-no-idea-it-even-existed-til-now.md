@@ -1,5 +1,6 @@
 ---
 title: This Little Known Place Way Up North Is Perfection. And I Had No Idea It Even Existed Til Now.
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-06-25T01:36:43.000Z

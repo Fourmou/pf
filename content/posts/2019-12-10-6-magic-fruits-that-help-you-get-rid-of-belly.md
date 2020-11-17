@@ -1,5 +1,6 @@
 ---
 title: 6 magic fruits that help you get rid of belly
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-10T19:17:39.000Z

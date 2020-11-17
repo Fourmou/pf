@@ -1,5 +1,6 @@
 ---
 title: New technique for predicting marine tsunamis earthquakes
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-28T11:39:23.000Z

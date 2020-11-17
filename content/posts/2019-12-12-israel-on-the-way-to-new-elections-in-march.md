@@ -1,5 +1,6 @@
 ---
 title: Israel on the way to new elections in March
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-12T13:19:11.000Z

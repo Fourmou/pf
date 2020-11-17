@@ -1,5 +1,6 @@
 ---
 title: Insomnia may lead to stroke
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-18T18:11:41.000Z

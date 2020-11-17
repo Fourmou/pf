@@ -1,5 +1,6 @@
 ---
 title: First Responders Decide To Have Some Fun By Making This Upbeat Public Relations Video
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

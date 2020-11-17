@@ -1,5 +1,6 @@
 ---
 title: Continued international reactions to the Turkish military operation in Syria
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-10T18:41:09.000Z

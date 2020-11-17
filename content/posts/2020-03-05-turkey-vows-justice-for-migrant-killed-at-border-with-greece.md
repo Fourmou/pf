@@ -1,5 +1,6 @@
 ---
 title: Turkey vows justice for migrant killed at border with Greece
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-05T10:19:48.000Z

@@ -1,5 +1,6 @@
 ---
 title: The Most Daring Red Carpet Looks in Grammy Awards History
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-06-28T07:39:23.000Z

@@ -1,5 +1,6 @@
 ---
 title: 'Doctors Believed That Their Prematurely Born Baby Would Die, But This Miracle Happened'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

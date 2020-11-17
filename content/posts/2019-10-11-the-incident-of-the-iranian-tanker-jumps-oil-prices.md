@@ -1,5 +1,6 @@
 ---
 title: The incident of the Iranian tanker jumps oil prices
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-11T12:25:57.000Z

@@ -1,5 +1,6 @@
 ---
 title: 'By Mixing Peanut Butter And Honey, You Can Create A Simple And Delicious Treat'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 date: 2019-06-19T20:32:24.000Z

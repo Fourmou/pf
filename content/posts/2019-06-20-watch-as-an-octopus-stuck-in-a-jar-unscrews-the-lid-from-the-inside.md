@@ -1,5 +1,6 @@
 ---
 title: Watch As An Octopus Stuck In A Jar Unscrews The Lid From The Inside
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

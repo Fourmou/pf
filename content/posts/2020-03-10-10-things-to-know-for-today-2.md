@@ -1,5 +1,6 @@
 ---
 title: 10 Things to Know for Today
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-10T13:18:18.000Z

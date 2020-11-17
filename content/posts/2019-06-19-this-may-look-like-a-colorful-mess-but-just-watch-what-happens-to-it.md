@@ -1,5 +1,6 @@
 ---
 title: 'This May Look Like A Colorful Mess, But Just Watch What Happens To It'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

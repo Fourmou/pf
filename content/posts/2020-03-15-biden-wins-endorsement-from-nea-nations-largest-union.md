@@ -1,5 +1,6 @@
 ---
 title: 'Biden wins endorsement from NEA, nation''s largest union'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-15T05:17:43.000Z

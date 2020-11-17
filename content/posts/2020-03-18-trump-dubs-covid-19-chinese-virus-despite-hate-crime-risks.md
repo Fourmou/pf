@@ -1,5 +1,6 @@
 ---
 title: Trump dubs COVID-19 ‘Chinese virus' despite hate crime risks
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-18T23:16:46.000Z

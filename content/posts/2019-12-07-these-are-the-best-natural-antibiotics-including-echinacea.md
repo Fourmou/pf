@@ -1,5 +1,6 @@
 ---
 title: 'These are the best natural antibiotics, including Echinacea'
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-07T17:41:37.000Z

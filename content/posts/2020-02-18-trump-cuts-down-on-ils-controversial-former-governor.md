@@ -1,5 +1,6 @@
 ---
 title: Trump cuts down on IL's controversial former governor
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-18T20:36:38.000Z

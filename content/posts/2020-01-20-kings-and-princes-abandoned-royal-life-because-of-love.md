@@ -1,5 +1,6 @@
 ---
 title: Kings and princes abandoned royal life because of love
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

@@ -1,5 +1,6 @@
 ---
 title: US heart surgeon treats children lacking care in Libya's war
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-11T07:20:45.000Z

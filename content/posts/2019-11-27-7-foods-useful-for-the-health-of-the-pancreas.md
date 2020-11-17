@@ -1,5 +1,6 @@
 ---
 title: 7 foods useful for the health of the pancreas
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-27T16:34:13.000Z

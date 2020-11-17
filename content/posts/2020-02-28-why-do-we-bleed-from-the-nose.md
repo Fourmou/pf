@@ -1,5 +1,6 @@
 ---
 title: Why do we bleed from the nose?
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 date: 2020-02-28T20:51:39.000Z

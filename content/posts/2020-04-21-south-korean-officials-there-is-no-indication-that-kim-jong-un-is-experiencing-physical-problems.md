@@ -1,5 +1,6 @@
 ---
 title: 'South Korean officials: There is no indication that Kim Jong-un is experiencing physical problems'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-04-21T13:07:15.000Z

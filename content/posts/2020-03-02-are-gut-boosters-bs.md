@@ -1,5 +1,6 @@
 ---
 title: Are Gut Boosters  BS?
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-03-02T13:01:25.000Z

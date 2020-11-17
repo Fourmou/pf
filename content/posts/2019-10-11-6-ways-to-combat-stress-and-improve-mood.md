@@ -1,5 +1,6 @@
 ---
 title: Using food .. 6 ways to combat stress and improve mood
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-10-11T14:13:26.000Z

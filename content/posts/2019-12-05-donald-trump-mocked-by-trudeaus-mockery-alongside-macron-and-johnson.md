@@ -1,5 +1,6 @@
 ---
 title: Donald Trump mocked by Trudeau's mockery alongside Macron and Johnson
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-05T17:18:19.000Z

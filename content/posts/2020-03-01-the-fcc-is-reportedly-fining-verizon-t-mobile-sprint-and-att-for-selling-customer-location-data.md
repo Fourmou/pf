@@ -1,5 +1,6 @@
 ---
 title: 'The FCC is reportedly fining Verizon, T-Mobile, Sprint, and AT&T for selling customer location data'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-01T07:25:42.000Z

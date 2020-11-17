@@ -1,5 +1,6 @@
 ---
 title: Turkey is seeking to launch an official digital currency "Turk Coin"
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2019-11-18T06:45:30.000Z

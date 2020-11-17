@@ -1,5 +1,6 @@
 ---
 title: 'Five women wanted a fresh start, now there are only two left'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

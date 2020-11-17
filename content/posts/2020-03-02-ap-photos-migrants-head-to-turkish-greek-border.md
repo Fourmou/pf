@@ -1,5 +1,6 @@
 ---
 title: 'AP Photos: Migrants head to Turkish-Greek border'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T05:17:37.000Z

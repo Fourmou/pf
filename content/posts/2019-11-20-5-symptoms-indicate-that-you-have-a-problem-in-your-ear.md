@@ -1,5 +1,6 @@
 ---
 title: 5 symptoms indicate that you have a problem in your ear
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-20T11:04:20.000Z

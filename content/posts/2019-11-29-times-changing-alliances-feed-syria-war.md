@@ -1,5 +1,6 @@
 ---
 title: 'Times: Changing Alliances Feed Syria War'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-29T13:07:36.000Z

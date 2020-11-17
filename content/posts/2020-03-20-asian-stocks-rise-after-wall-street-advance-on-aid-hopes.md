@@ -1,5 +1,6 @@
 ---
 title: Asian stocks rise after Wall Street advance on aid hopes
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-20T07:16:38.000Z

@@ -1,5 +1,6 @@
 ---
 title: Klobuchar calls for independent review of murder case
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-06T04:23:28.000Z

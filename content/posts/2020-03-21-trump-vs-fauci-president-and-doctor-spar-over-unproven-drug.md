@@ -1,5 +1,6 @@
 ---
 title: 'Trump vs Fauci: President and doctor spar over unproven drug'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-21T00:16:47.000Z

@@ -1,5 +1,6 @@
 ---
 title: Compulsive shopping mania
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-12-29T09:40:37.000Z

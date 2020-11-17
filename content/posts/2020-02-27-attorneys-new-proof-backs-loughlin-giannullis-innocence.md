@@ -1,5 +1,6 @@
 ---
 title: 'Attorneys: New proof backs Loughlin, Giannulli''s innocence'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T04:23:23.000Z

@@ -1,5 +1,6 @@
 ---
 title: Luigi Di Maio announces his resignation from the head of the 5 Star Movement
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-01-23T05:12:23.000Z

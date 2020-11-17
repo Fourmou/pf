@@ -1,5 +1,6 @@
 ---
 title: Coronavirus cancellations of tech industry events cost $500 million at least
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-06T02:16:35.000Z

@@ -1,5 +1,6 @@
 ---
 title: '1 year later, New Zealand mosque attacks alter many lives'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-13T05:19:38.000Z

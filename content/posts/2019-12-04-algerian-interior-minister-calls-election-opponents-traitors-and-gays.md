@@ -1,5 +1,6 @@
 ---
 title: Algerian interior minister calls election opponents "traitors and gays"
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-04T14:12:26.000Z

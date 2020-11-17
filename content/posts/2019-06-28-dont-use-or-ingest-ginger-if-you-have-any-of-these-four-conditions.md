@@ -1,5 +1,6 @@
 ---
 title: Don't Use Or Ingest Ginger If You Have Any of These Four Conditions
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-06-28T08:22:11.000Z

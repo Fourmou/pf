@@ -1,5 +1,6 @@
 ---
 title: What makes Trump obedient to Erdogan?
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-10T16:35:26.000Z

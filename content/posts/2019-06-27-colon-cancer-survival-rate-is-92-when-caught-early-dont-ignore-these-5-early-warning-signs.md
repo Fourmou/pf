@@ -1,5 +1,6 @@
 ---
 title: Colon Cancer Survival Rate Is 92% When Caught Early -- Don't Ignore These 5 Early Warning Signs
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-06-27T08:48:19.000Z

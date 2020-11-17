@@ -1,5 +1,6 @@
 ---
 title: Virus cases in Italy soar 40%; US urges Americans not to go
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-01T19:18:19.000Z

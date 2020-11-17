@@ -1,5 +1,6 @@
 ---
 title: 'John Afrique: The formation of the government in Tunisia is a real mystery'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-14T14:17:09.000Z

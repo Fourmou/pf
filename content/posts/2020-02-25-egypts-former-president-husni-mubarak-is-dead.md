@@ -1,5 +1,6 @@
 ---
 title: Egypt's former President Husni Mubarak is dead
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-25T16:52:20.000Z

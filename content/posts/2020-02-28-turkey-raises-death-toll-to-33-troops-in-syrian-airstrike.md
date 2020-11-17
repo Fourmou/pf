@@ -1,5 +1,6 @@
 ---
 title: Turkey raises death toll to 33 troops in Syrian airstrike
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T08:24:49.000Z

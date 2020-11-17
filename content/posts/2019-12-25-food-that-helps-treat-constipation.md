@@ -1,5 +1,6 @@
 ---
 title: Food that helps treat constipation
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-25T06:39:30.000Z

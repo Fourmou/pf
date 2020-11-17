@@ -1,5 +1,6 @@
 ---
 title: China threatens US retaliation for supporting Hong Kong protests
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-20T10:54:05.000Z

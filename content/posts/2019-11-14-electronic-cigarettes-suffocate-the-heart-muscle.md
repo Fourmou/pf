@@ -1,5 +1,6 @@
 ---
 title: Electronic cigarettes suffocate the heart muscle
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-14T14:11:16.000Z

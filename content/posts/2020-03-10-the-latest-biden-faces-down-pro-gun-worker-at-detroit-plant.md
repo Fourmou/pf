@@ -1,5 +1,6 @@
 ---
 title: 'The Latest: Biden faces down pro-gun worker at Detroit plant'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-10T17:18:39.000Z

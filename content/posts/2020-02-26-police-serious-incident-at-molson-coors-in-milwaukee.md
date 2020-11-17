@@ -1,5 +1,6 @@
 ---
 title: 'Police: `Serious incident'' at Molson Coors in Milwaukee'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-26T22:25:06.000Z

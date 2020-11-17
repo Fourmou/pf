@@ -1,5 +1,6 @@
 ---
 title: 'With painted faces, artists fight facial recognition tech'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-08T12:26:24.000Z

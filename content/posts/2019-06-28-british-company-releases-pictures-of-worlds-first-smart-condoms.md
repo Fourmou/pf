@@ -1,5 +1,6 @@
 ---
 title: British Company Releases Pictures Of World's First ‘Smart Condoms'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-06-28T14:30:42.000Z

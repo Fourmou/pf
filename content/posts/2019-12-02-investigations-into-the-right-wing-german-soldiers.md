@@ -1,5 +1,6 @@
 ---
 title: Investigations into the right-wing German soldiers
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-02T14:15:42.000Z

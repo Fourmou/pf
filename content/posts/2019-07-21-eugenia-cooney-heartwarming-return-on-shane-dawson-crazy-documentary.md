@@ -1,5 +1,6 @@
 ---
 title: Eugenia Cooney heartwarming Return On Shane Dawson Crazy Documentary
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-07-21T01:17:57.000Z

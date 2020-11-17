@@ -1,5 +1,6 @@
 ---
 title: Parents of ‘terrified' Africans stranded in China want help
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T12:24:29.000Z

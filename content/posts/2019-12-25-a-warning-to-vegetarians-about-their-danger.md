@@ -1,5 +1,6 @@
 ---
 title: A warning to vegetarians about their danger
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-25T17:33:56.000Z

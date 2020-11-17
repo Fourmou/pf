@@ -1,5 +1,6 @@
 ---
 title: What to do when you hate your job
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

@@ -1,5 +1,6 @@
 ---
 title: Processed foods threaten you with diabetes
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-23T04:26:22.000Z

@@ -1,5 +1,6 @@
 ---
 title: '"Scandal of Ukraine" .. Suspicions about the complicity of Pompeo and Pines'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-21T10:59:49.000Z

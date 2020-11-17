@@ -1,5 +1,6 @@
 ---
 title: Arsenal-City game called off with players in self-isolation
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-11T03:18:17.000Z

@@ -1,5 +1,6 @@
 ---
 title: This Diet Doesn't Just Help With Weight Loss. It May Also Prevent Major Diseases.
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-06-27T09:23:51.000Z

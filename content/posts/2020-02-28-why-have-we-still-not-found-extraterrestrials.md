@@ -1,5 +1,6 @@
 ---
 title: Why have we still not found extraterrestrials?
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

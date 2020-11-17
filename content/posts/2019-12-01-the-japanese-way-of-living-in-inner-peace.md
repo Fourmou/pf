@@ -1,5 +1,6 @@
 ---
 title: The Japanese way of living in inner peace
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

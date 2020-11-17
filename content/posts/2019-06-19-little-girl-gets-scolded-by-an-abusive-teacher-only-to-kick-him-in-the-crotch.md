@@ -1,5 +1,6 @@
 ---
 title: 'Little Girl Gets Scolded By An Abusive Teacher, Only To Kick Him In The Crotch'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

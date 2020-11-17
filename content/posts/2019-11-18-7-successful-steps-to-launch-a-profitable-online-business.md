@@ -1,5 +1,6 @@
 ---
 title: 7 successful steps to launch a profitable online business
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-18T07:02:15.000Z

@@ -1,5 +1,6 @@
 ---
 title: The Health Department website was attacked in the middle of the coronavirus pandemic
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-17T13:23:03.000Z

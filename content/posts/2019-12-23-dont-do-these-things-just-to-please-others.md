@@ -1,5 +1,6 @@
 ---
 title: Don't do these things just to please others
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

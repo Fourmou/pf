@@ -1,5 +1,6 @@
 ---
 title: Coronavirus news is dominating readers' attention
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-17T20:17:01.000Z

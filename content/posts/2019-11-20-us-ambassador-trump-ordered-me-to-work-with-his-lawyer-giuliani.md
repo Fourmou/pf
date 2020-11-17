@@ -1,5 +1,6 @@
 ---
 title: 'US Ambassador: Trump ordered me to work with his lawyer Giuliani'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-20T16:00:23.000Z

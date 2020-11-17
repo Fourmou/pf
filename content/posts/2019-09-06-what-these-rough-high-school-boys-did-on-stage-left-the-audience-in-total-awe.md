@@ -1,5 +1,6 @@
 ---
 title: What These Rough High School Boys Did On Stage Left The Audience In Total Awe
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

@@ -1,5 +1,6 @@
 ---
 title: Laurene Powell Jobs's charity is going to give away almost all of its money
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-29T22:34:30.000Z

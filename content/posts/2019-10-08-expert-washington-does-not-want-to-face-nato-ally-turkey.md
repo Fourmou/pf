@@ -1,5 +1,6 @@
 ---
 title: 'Expert: Washington does not want to face NATO ally "Turkey"'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-08T13:14:37.000Z

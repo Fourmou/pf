@@ -1,5 +1,6 @@
 ---
 title: The Turkish Defense Ministry announced that its forces took control of the M4 highway with a depth of 30 to 35 kilometers inside Syrian territory
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-13T16:38:52.000Z

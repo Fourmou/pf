@@ -1,5 +1,6 @@
 ---
 title: Medical mind-reading brain scanners to ask patients who cannot speak
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-02-29T20:15:33.000Z

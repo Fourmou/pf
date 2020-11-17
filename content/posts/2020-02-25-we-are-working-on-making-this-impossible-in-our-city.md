@@ -1,5 +1,6 @@
 ---
 title: We are working on making this impossible in our city
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-25T18:41:05.000Z

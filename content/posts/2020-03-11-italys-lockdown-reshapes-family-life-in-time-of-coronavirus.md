@@ -1,5 +1,6 @@
 ---
 title: Italy's lockdown reshapes family life in time of coronavirus
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-11T12:21:02.000Z

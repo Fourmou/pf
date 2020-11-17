@@ -1,5 +1,6 @@
 ---
 title: Staying within your comfort zone makes you live a life free of excitement
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

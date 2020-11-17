@@ -1,5 +1,6 @@
 ---
 title: The best way to sit so as not to hurt your knee and thigh
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-02T13:12:55.000Z

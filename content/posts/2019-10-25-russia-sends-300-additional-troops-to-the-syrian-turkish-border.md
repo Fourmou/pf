@@ -1,5 +1,6 @@
 ---
 title: Russia sends 300 additional troops to the Syrian-Turkish border
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-25T21:00:18.000Z

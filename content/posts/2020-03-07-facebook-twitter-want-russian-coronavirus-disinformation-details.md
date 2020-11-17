@@ -1,5 +1,6 @@
 ---
 title: 'Facebook, Twitter want Russian coronavirus disinformation details'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-07T10:25:12.000Z

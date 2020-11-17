@@ -1,5 +1,6 @@
 ---
 title: 'Man Challenges Gaston To A Push-Up Competition, Only To Get A Humbling Surprise'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

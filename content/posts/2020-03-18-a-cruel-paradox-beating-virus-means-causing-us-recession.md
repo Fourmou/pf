@@ -1,5 +1,6 @@
 ---
 title: 'A cruel paradox: Beating virus means causing US recession'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-18T04:27:50.000Z

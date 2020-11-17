@@ -1,5 +1,6 @@
 ---
 title: Giant House Cats That Aren't Kittens Anymore
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-06-28T07:45:42.000Z

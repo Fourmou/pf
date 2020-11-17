@@ -1,5 +1,6 @@
 ---
 title: 10 Things to Know about the current time
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T12:22:49.000Z

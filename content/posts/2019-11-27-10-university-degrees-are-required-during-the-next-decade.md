@@ -1,5 +1,6 @@
 ---
 title: 10 university degrees are required during the next decade
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

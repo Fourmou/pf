@@ -1,5 +1,6 @@
 ---
 title: What This Man Is Doing For Disabled Dogs In His Hometown Is Simply Heroic
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

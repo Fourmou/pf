@@ -1,5 +1,6 @@
 ---
 title: Tips for protection from radiation of smartphones
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

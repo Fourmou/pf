@@ -1,5 +1,6 @@
 ---
 title: Twitter CEO Jack Dorsey could be ousted by activist investors
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T06:24:37.000Z

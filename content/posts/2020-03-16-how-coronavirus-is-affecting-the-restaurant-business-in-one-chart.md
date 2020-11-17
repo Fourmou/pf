@@ -1,5 +1,6 @@
 ---
 title: 'How coronavirus is affecting the restaurant business, in one chart'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-16T17:24:40.000Z

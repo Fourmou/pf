@@ -1,5 +1,6 @@
 ---
 title: 'Hardest-hit China, South Korea count 767 unusual virus conditions'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-27T03:19:22.000Z

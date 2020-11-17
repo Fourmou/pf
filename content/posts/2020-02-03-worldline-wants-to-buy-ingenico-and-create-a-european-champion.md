@@ -1,5 +1,6 @@
 ---
 title: Worldline wants to buy Ingenico and create a European champion
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-03T13:25:41.000Z

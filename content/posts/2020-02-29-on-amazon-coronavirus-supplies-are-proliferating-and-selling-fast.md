@@ -1,5 +1,6 @@
 ---
 title: 'On Amazon, coronavirus supplies are proliferating --- and selling fast'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-29T13:26:37.000Z

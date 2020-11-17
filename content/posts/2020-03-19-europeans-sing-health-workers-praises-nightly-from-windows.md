@@ -1,5 +1,6 @@
 ---
 title: Europeans sing health workers' praises nightly from windows
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-19T22:22:09.000Z

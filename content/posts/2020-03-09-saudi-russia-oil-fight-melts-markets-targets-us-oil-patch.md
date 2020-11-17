@@ -1,5 +1,6 @@
 ---
 title: 'Saudi-Russia oil fight melts markets, targets US oil patch'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-09T15:20:16.000Z

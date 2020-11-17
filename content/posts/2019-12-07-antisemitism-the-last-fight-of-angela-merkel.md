@@ -1,5 +1,6 @@
 ---
 title: 'Antisemitism, the last fight of Angela Merkel'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-07T18:53:02.000Z

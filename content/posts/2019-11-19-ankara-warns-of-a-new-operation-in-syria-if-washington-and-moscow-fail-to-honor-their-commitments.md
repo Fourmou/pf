@@ -1,5 +1,6 @@
 ---
 title: Ankara warns of a new operation in Syria if Washington and Moscow fail to honor their commitments
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-19T07:45:11.000Z

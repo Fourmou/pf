@@ -1,5 +1,6 @@
 ---
 title: The scandal of "Dubai Securities" stains the reputation of the first Swiss bank on the Internet
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2019-12-03T16:10:07.000Z

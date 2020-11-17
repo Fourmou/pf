@@ -1,5 +1,6 @@
 ---
 title: 'Kind Thoughts Strategy: How to Become Tolerant of the Unknown'
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-04-22T09:37:58.000Z

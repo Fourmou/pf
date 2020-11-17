@@ -1,5 +1,6 @@
 ---
 title: America supports settlement building in the West Bank
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-19T07:31:37.000Z

@@ -1,5 +1,6 @@
 ---
 title: Five habits that lead to belly fat
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-29T09:16:24.000Z

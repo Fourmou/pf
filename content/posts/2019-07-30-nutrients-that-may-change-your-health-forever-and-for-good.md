@@ -1,5 +1,6 @@
 ---
 title: Nutrients that may change your health forever and for good
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-07-30T13:57:35.000Z

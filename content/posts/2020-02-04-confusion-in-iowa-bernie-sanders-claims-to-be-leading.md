@@ -1,5 +1,6 @@
 ---
 title: 'Confusion in Iowa, Bernie Sanders claims to be leading'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-04T19:26:32.000Z

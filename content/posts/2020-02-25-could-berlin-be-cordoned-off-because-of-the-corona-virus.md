@@ -1,5 +1,6 @@
 ---
 title: Could Berlin be cordoned off because of the coronavirus?
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-25T17:54:50.000Z

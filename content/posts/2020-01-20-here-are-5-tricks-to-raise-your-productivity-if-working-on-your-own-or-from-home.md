@@ -1,5 +1,6 @@
 ---
 title: Here are 5 tricks to raise your productivity if working on your own or from home
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

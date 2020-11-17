@@ -1,5 +1,6 @@
 ---
 title: 'Nuclear weapons: Putin wants to renew the New Start treaty quickly with the United States'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-06T10:52:50.000Z

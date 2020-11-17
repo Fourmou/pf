@@ -1,5 +1,6 @@
 ---
 title: A new benefit for virgin olive oil
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-28T11:09:19.000Z

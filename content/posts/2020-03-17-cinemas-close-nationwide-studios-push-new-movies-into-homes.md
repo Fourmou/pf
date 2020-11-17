@@ -1,5 +1,6 @@
 ---
 title: 'Cinemas close nationwide, studios push new movies into homes'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-17T16:16:39.000Z

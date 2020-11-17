@@ -1,5 +1,6 @@
 ---
 title: Investigations Trump trial key witness testifies today in Congress
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-20T15:01:19.000Z

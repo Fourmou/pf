@@ -1,5 +1,6 @@
 ---
 title: Former Michigan wrestler urges more victims to ‘speak up'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T17:26:08.000Z

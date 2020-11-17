@@ -1,5 +1,6 @@
 ---
 title: Trump chances of winning the election are diminishing
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-10-19T09:37:58.000Z

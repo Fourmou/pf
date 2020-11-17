@@ -1,5 +1,6 @@
 ---
 title: The world is heading towards vegetarianism and these are its advantages and dangers
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-06T10:26:19.000Z

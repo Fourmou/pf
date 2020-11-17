@@ -1,5 +1,6 @@
 ---
 title: Virgin Galactic Sees Demand for Million Dollar Top class Sub-orbital Tourism
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T00:21:37.000Z

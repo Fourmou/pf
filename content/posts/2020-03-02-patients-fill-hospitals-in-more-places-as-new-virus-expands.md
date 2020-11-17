@@ -1,5 +1,6 @@
 ---
 title: Patients fill hospitals in more places as new virus expands
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T09:25:43.000Z

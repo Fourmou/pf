@@ -1,5 +1,6 @@
 ---
 title: Saudi Aramco loses $ 2 billion in oil production
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-11T12:35:06.000Z

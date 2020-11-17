@@ -1,5 +1,6 @@
 ---
 title: Stakes rise for Sanders heading into Michigan primary
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-09T19:26:27.000Z

@@ -1,5 +1,6 @@
 ---
 title: Do emotions have the same meaning around the world
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

@@ -1,5 +1,6 @@
 ---
 title: 'Delhi''s deadly riots, explained by an expert'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-13T11:19:13.000Z

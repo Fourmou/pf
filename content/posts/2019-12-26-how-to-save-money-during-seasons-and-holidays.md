@@ -1,5 +1,6 @@
 ---
 title: How to save money during seasons and holidays
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

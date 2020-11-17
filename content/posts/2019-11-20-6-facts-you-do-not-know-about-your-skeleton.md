@@ -1,5 +1,6 @@
 ---
 title: 6 facts you do not know about your skeleton
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-20T11:21:25.000Z

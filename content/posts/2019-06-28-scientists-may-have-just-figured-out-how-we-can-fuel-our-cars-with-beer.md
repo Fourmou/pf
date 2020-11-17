@@ -1,5 +1,6 @@
 ---
 title: Scientists May Have Just Figured Out How We Can Fuel Our Cars With Beer
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-06-28T14:41:18.000Z

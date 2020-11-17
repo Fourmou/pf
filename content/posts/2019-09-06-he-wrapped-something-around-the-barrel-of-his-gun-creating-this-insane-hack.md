@@ -1,5 +1,6 @@
 ---
 title: 'He Wrapped Something Around The Barrel Of His Gun, Creating This Insane Hack'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

@@ -1,5 +1,6 @@
 ---
 title: Russia warns and Kurds mobilize .. List of the latest developments of the Turkish operation in Syria
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-09T12:31:05.000Z

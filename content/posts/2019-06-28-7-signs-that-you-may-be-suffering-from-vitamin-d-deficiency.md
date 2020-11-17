@@ -1,5 +1,6 @@
 ---
 title: 7 Signs That You May Be Suffering From Vitamin D Deficiency
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-06-28T14:59:50.000Z

@@ -1,5 +1,6 @@
 ---
 title: 40% of the world's wild plants are threatened with extinction
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-02T13:28:33.000Z

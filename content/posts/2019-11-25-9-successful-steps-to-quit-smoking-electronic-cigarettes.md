@@ -1,5 +1,6 @@
 ---
 title: 9 Successful Steps to Quit Smoking Electronic Cigarettes
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-25T18:38:32.000Z

@@ -1,5 +1,6 @@
 ---
 title: This Everyday Household Item Surprisingly Caused A Terrible Home Fire
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 date: 2019-06-20T03:01:33.000Z

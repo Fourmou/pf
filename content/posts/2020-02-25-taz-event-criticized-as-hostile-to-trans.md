@@ -1,5 +1,6 @@
 ---
 title: Taz event criticized as hostile to trans
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-25T18:49:24.000Z

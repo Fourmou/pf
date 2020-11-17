@@ -1,5 +1,6 @@
 ---
 title: Amazon Products You Never Knew You … or Anyone … Needed
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-06-28T08:03:07.000Z

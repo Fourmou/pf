@@ -1,5 +1,6 @@
 ---
 title: N. Korea fires weapons after threatening ‘momentous' action
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-09T01:22:46.000Z

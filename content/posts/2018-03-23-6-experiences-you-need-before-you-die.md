@@ -1,5 +1,6 @@
 ---
 title: 6 Experiences You Need Before You Die
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2018-03-23T15:03:19.000Z

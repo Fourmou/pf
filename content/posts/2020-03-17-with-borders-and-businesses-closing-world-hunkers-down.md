@@ -1,5 +1,6 @@
 ---
 title: 'With borders and businesses closing, world hunkers down'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-17T07:18:24.000Z

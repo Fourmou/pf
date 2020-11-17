@@ -1,5 +1,6 @@
 ---
 title: LA County sheriff says 8 deputies took Bryant crash photos
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T05:21:15.000Z

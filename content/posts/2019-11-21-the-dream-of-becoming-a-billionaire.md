@@ -1,5 +1,6 @@
 ---
 title: The dream of becoming a billionaire
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2019-11-21T10:30:29.000Z

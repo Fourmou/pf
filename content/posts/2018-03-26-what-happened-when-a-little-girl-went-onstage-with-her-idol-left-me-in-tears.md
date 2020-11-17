@@ -1,5 +1,6 @@
 ---
 title: What Happened When A Little Girl Went Onstage With Her Idol Left Me In Tears
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

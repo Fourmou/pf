@@ -1,5 +1,6 @@
 ---
 title: Social media celebrities become millionaires this his how they changed marketing landscape
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-10-10T19:00:36.000Z

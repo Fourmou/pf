@@ -1,5 +1,6 @@
 ---
 title: Israel deports Human Rights Watch director
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-25T19:08:57.000Z

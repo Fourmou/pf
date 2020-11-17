@@ -1,5 +1,6 @@
 ---
 title: The discovery leads to drugs targeting dozens of types of cancer
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-26T12:00:45.000Z

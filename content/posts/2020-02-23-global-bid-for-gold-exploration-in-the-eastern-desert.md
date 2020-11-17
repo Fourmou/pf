@@ -1,5 +1,6 @@
 ---
 title: Global bid for gold exploration in the Eastern Desert
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-23T16:48:15.000Z

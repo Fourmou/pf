@@ -1,5 +1,6 @@
 ---
 title: US House Intelligence Committee approves Trump's impeachment
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-04T14:52:17.000Z

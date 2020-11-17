@@ -1,5 +1,6 @@
 ---
 title: Sarah Arenson .. Judaism that brought down the Ottoman Empire
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

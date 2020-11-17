@@ -1,5 +1,6 @@
 ---
 title: 7 reasons to eat beets daily
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-19T06:53:01.000Z

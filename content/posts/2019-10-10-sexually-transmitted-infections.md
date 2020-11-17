@@ -1,5 +1,6 @@
 ---
 title: Sexually transmitted infections
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-10-10T10:31:39.000Z

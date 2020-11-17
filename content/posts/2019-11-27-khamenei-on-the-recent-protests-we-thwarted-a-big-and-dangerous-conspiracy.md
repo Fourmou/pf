@@ -1,5 +1,6 @@
 ---
 title: 'Khamenei on the recent protests: We thwarted a big and dangerous conspiracy'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-27T17:22:24.000Z

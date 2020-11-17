@@ -1,5 +1,6 @@
 ---
 title: Don't be fooled by the health aura Vegetable milk is more sugary than cow's milk
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-05T16:41:47.000Z

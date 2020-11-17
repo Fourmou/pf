@@ -1,5 +1,6 @@
 ---
 title: 10 questions that lead you to success and happiness during 2020
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

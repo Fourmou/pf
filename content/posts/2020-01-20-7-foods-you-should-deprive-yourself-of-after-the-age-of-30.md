@@ -1,5 +1,6 @@
 ---
 title: 7 foods you should deprive yourself of after the age of 30
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-01-20T05:15:53.000Z

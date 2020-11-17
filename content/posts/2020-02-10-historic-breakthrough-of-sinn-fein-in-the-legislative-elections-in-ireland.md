@@ -1,5 +1,6 @@
 ---
 title: Historic breakthrough of Sinn Fein in the legislative elections in Ireland
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-10T14:21:54.000Z

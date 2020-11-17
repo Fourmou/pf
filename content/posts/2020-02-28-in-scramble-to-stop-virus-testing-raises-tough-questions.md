@@ -1,5 +1,6 @@
 ---
 title: 'In scramble to stop virus, testing raises tough questions'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T01:17:21.000Z

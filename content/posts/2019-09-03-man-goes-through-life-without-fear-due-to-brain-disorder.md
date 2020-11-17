@@ -1,5 +1,6 @@
 ---
 title: Man goes through life without fear due to brain disorder
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-09-03T20:33:04.000Z

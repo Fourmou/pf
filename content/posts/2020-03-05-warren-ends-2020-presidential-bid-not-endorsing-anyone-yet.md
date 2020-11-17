@@ -1,5 +1,6 @@
 ---
 title: 'Warren ends 2020 presidential bid, not endorsing anyone yet'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-05T19:24:14.000Z

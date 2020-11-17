@@ -1,5 +1,6 @@
 ---
 title: 'What''s Happening: Mask hoarders rebuked, Olympics delay eyed'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-04T02:21:05.000Z

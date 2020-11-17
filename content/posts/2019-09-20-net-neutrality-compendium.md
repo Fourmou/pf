@@ -1,5 +1,6 @@
 ---
 title: 'Does net neutrality gone ? No. Net neutrality explained, the Compendium'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-09-20T12:46:46.000Z

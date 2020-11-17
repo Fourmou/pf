@@ -1,5 +1,6 @@
 ---
 title: 'Vatican halts Mexico abuse prevention mission, cites virus'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-06T22:17:43.000Z

@@ -1,5 +1,6 @@
 ---
 title: China 2020 Valentine's Day a how to
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

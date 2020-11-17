@@ -1,5 +1,6 @@
 ---
 title: Biden fights for momentum in Democrats' shifting primary
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T08:21:10.000Z

@@ -1,5 +1,6 @@
 ---
 title: 10 strange information about the Nobel Prize
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-10-10T11:56:42.000Z

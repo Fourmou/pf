@@ -1,5 +1,6 @@
 ---
 title: 'Stocks, oil prices plunge as virus closes sites around world'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-09T11:18:16.000Z

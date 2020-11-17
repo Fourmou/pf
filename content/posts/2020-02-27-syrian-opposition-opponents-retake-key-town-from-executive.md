@@ -1,5 +1,6 @@
 ---
 title: Syrian opposition opponents retake key town from executive
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T08:24:05.000Z

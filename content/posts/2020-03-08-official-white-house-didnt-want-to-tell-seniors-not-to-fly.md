@@ -1,5 +1,6 @@
 ---
 title: 'Official: White House didn''t want to tell seniors not to fly'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-08T08:18:04.000Z

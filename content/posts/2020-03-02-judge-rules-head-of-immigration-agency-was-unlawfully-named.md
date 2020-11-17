@@ -1,5 +1,6 @@
 ---
 title: Judge rules head of immigration agency was unlawfully named
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T06:24:49.000Z

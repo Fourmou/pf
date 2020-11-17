@@ -1,5 +1,6 @@
 ---
 title: Brexit agreement definitively validated by Parliament
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-01-23T04:58:09.000Z

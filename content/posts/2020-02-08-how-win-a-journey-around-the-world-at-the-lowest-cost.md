@@ -1,5 +1,6 @@
 ---
 title: How win a journey around the world at the lowest cost
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

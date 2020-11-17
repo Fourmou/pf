@@ -1,5 +1,6 @@
 ---
 title: 4 types of tea to help you sleep
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-02-11T16:43:37.000Z

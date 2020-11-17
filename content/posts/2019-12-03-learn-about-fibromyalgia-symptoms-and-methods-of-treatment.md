@@ -1,5 +1,6 @@
 ---
 title: Learn about fibromyalgia symptoms and methods of treatment
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-03T15:50:41.000Z

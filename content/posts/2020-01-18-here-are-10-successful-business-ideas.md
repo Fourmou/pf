@@ -1,5 +1,6 @@
 ---
 title: Here are 10 successful business ideas
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-01-18T19:49:41.000Z

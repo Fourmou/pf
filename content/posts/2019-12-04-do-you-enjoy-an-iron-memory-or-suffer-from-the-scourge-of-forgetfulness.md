@@ -1,5 +1,6 @@
 ---
 title: Do you enjoy an iron memory or suffer from the scourge of forgetfulness?
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-04T13:53:17.000Z

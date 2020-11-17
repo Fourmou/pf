@@ -1,5 +1,6 @@
 ---
 title: Public debut without public for polar bear cubs at Dutch zoo
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-18T18:26:09.000Z

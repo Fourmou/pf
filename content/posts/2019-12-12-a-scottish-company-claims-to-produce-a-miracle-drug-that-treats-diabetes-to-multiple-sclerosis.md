@@ -1,5 +1,6 @@
 ---
 title: A Scottish company claims to produce a miracle drug that treats diabetes and multiple sclerosis
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-12T12:55:16.000Z

@@ -1,5 +1,6 @@
 ---
 title: Gunmen kill at least 27 at memorial for Afghan Shiite leader
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-06T13:22:16.000Z

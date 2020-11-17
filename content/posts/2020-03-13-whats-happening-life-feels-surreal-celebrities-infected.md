@@ -1,5 +1,6 @@
 ---
 title: 'What''s Happening: Life feels surreal; celebrities infected'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-13T13:26:22.000Z

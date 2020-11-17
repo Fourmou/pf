@@ -1,5 +1,6 @@
 ---
 title: 'TikTok, the new kid on the block'
+categories: ["genz"]
 author: Shira Tarlo
 type: post
 categories: genz

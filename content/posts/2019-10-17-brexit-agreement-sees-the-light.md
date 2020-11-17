@@ -1,5 +1,6 @@
 ---
 title: Brexit agreement sees the light
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-17T11:43:52.000Z

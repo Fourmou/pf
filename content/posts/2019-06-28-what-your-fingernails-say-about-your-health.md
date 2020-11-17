@@ -1,5 +1,6 @@
 ---
 title: What Your Fingernails Say About Your Health
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-06-28T08:34:31.000Z

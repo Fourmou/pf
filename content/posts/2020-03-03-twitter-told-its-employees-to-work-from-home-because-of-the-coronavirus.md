@@ -1,5 +1,6 @@
 ---
 title: Twitter told its employees to work from home because of the coronavirus
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T13:30:45.000Z

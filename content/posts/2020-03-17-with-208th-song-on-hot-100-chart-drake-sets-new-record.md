@@ -1,5 +1,6 @@
 ---
 title: 'With 208th song on Hot 100 chart, Drake sets new record'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-17T02:20:48.000Z

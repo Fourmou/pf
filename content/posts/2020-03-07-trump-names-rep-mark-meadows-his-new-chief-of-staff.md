@@ -1,5 +1,6 @@
 ---
 title: Trump names Rep. Mark Meadows his new chief of staff
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-07T02:16:55.000Z

@@ -1,5 +1,6 @@
 ---
 title: CDC's latest guidance could mean no sports for much longer
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-16T03:16:34.000Z

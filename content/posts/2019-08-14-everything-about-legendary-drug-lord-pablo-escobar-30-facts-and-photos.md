@@ -1,5 +1,6 @@
 ---
 title: Everything about legendary drug lord Pablo Escobar -- 30 facts and photos
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-08-14T22:21:08.000Z

@@ -1,5 +1,6 @@
 ---
 title: Has Alzheimer's disease ended? Invented artificial neurons instead of lost brain cells
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-05T16:53:04.000Z

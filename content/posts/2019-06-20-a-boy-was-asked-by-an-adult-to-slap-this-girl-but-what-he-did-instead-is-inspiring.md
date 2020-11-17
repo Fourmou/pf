@@ -1,5 +1,6 @@
 ---
 title: 'A Boy Was Asked By An Adult To Slap This Girl, But What He Did Instead Is Inspiring'
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

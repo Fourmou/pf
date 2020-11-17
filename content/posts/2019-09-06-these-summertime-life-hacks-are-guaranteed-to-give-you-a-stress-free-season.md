@@ -1,5 +1,6 @@
 ---
 title: These Summertime Life Hacks Are Guaranteed To Give You A Stress-Free Season
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

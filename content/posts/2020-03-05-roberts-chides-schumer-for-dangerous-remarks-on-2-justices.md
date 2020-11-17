@@ -1,5 +1,6 @@
 ---
 title: Roberts chides Schumer for ‘dangerous' remarks on 2 justices
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-05T01:18:33.000Z

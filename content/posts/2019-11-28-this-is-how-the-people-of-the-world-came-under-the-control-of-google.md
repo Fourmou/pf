@@ -1,5 +1,6 @@
 ---
 title: This is how the people of the world came under the control of Google
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-28T11:31:35.000Z

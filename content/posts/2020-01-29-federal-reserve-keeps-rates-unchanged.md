@@ -1,5 +1,6 @@
 ---
 title: Federal Reserve keeps rates unchanged
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-01-29T19:45:35.000Z

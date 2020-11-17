@@ -1,5 +1,6 @@
 ---
 title: How State Marriage and Divorce Rates Stack Up
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

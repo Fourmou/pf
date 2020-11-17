@@ -1,5 +1,6 @@
 ---
 title: Intermittent fasting advantages and the right method for you
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-27T07:13:38.000Z

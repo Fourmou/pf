@@ -1,5 +1,6 @@
 ---
 title: Trump's policy in Syria could reorganize the state
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-11T12:16:07.000Z

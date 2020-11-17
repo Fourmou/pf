@@ -1,5 +1,6 @@
 ---
 title: 'Coronavirus is causing more people to work from home or remotely, surge in Zoom and Slack interest'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T13:51:43.000Z

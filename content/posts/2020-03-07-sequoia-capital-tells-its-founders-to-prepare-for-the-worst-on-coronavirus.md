@@ -1,5 +1,6 @@
 ---
 title: Sequoia Capital tells its founders to prepare for the worst on coronavirus
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-07T23:20:56.000Z

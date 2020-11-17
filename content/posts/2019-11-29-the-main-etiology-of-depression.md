@@ -1,5 +1,6 @@
 ---
 title: The main etiology of depression
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-29T12:54:30.000Z

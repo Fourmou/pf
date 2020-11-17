@@ -1,5 +1,6 @@
 ---
 title: 'US officials: Foreign disinformation stoking virus fears'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-16T16:27:27.000Z

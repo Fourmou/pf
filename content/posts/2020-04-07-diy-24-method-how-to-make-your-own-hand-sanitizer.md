@@ -1,5 +1,6 @@
 ---
 title: DIY -- 24 method how to make your own hand sanitizer
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-04-07T00:30:15.000Z

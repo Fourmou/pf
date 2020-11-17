@@ -1,5 +1,6 @@
 ---
 title: A Man Receive a life time sentence for stealing a $160 jacket
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-08T16:37:04.000Z

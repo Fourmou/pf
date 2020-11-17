@@ -1,5 +1,6 @@
 ---
 title: Seven soldiers and 80 terrorists killed in an attack in Burkina Faso
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-25T18:00:00.000Z

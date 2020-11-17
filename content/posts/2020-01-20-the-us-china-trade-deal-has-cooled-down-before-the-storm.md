@@ -1,5 +1,6 @@
 ---
 title: The US-China trade deal has cooled down before the storm
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-01-20T05:39:51.000Z

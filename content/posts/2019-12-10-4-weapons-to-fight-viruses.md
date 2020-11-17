@@ -1,5 +1,6 @@
 ---
 title: 4 weapons to fight viruses
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-10T18:59:31.000Z

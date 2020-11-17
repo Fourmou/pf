@@ -1,5 +1,6 @@
 ---
 title: Turkish's special Forces units continue to advance in the eastern Euphrates region
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-10T10:57:53.000Z

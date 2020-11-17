@@ -1,5 +1,6 @@
 ---
 title: What are the causes of testicle pain
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-29T09:28:03.000Z

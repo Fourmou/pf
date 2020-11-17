@@ -1,5 +1,6 @@
 ---
 title: 'Ukraine: the child of a deputy killed in an attack on his father'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-05T17:24:03.000Z

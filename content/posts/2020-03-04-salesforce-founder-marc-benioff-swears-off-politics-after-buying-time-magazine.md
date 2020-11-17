@@ -1,5 +1,6 @@
 ---
 title: Salesforce founder Marc Benioff swears off politics after buying Time magazine
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-04T23:19:03.000Z

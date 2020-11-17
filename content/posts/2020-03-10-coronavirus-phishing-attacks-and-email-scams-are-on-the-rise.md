@@ -1,5 +1,6 @@
 ---
 title: Coronavirus phishing attacks and email scams are on the rise
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-10T03:28:35.000Z

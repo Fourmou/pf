@@ -1,5 +1,6 @@
 ---
 title: The anniversary of the death of Guevara
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-10-10T12:12:24.000Z

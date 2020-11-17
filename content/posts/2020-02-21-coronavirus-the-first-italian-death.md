@@ -1,5 +1,6 @@
 ---
 title: 'Coronavirus, the first Italian death: it is one of the two patients from Veneto. He was 78 years old, died in Padua'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-21T23:30:35.000Z

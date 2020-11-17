@@ -1,5 +1,6 @@
 ---
 title: Regulatory Reporting Revisions to the Consolidated Reports of Condition and Income
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-19T18:59:28.000Z

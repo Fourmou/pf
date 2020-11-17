@@ -1,5 +1,6 @@
 ---
 title: 6 Alarming Symptoms Of Tonsilloliths That Should Never Be Ignored
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-06-27T09:06:56.000Z

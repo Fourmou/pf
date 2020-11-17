@@ -1,5 +1,6 @@
 ---
 title: iBaby's smart baby monitor cameras are vulnerable to hacks
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-28T12:24:04.000Z

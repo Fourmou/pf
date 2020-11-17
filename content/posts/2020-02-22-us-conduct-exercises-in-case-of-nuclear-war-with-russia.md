@@ -1,5 +1,6 @@
 ---
 title: US conduct exercises in case of nuclear war with Russia
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-22T00:59:21.000Z

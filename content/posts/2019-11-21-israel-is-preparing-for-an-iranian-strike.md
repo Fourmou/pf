@@ -1,5 +1,6 @@
 ---
 title: 'After targeting sites in Syria, Israel is preparing for an Iranian strike'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-11-21T10:51:21.000Z

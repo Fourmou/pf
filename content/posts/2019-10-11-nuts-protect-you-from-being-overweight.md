@@ -1,5 +1,6 @@
 ---
 title: Nuts protect you from being overweight
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-10-11T13:55:22.000Z

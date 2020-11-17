@@ -1,5 +1,6 @@
 ---
 title: Amazon's Ring hacks reveal tech's security problem
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-29T22:34:29.000Z

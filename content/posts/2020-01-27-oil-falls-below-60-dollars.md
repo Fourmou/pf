@@ -1,5 +1,6 @@
 ---
 title: Oil falls below 60 dollars
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-01-27T12:15:09.000Z

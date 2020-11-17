@@ -1,5 +1,6 @@
 ---
 title: Kushner sells stake in firm using tax breaks he lobbied for
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T01:17:37.000Z

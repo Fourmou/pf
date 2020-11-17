@@ -1,5 +1,6 @@
 ---
 title: US "House of Representatives" resumes investigation to hold Trump accountable
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-26T18:45:06.000Z

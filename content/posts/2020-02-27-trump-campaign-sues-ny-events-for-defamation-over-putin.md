@@ -1,5 +1,6 @@
 ---
 title: Trump campaign sues NY Events for defamation over Putin
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T01:19:23.000Z

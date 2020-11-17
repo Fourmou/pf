@@ -1,5 +1,6 @@
 ---
 title: San Francisco and a few other cities saw most growth in new tech jobs
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T13:30:46.000Z

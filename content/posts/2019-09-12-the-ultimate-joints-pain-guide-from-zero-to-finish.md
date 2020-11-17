@@ -1,5 +1,6 @@
 ---
 title: The ultimate joints pain guide from zero to finish
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-09-12T21:52:12.000Z

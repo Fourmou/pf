@@ -1,5 +1,6 @@
 ---
 title: when Trump recounts the strike against General Soleimani
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-01-18T20:09:16.000Z

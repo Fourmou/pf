@@ -1,5 +1,6 @@
 ---
 title: After China described him as a poison .. Apple acquiesces and removes a special application maps Hong Kong
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2019-10-10T12:28:48.000Z

@@ -1,5 +1,6 @@
 ---
 title: Georgia 2nd state to postpone pres. primaries over virus
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-15T00:19:11.000Z

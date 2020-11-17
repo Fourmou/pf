@@ -1,5 +1,6 @@
 ---
 title: 8 logical reasons explain why you have to love your enemies
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

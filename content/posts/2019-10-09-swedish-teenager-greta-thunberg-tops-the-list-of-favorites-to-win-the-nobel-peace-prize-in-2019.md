@@ -1,5 +1,6 @@
 ---
 title: Swedish teen and Ethiopian Prime Minister .. Which is the most likely to win the Nobel Peace Prize?
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-10-09T12:42:16.000Z

@@ -1,5 +1,6 @@
 ---
 title: Moderna Coronavirus Vaccine Samples Shipped
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-26T18:21:20.000Z

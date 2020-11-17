@@ -1,5 +1,6 @@
 ---
 title: Pearl Jam postpones first leg of tour over virus concerns
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-10T04:25:24.000Z

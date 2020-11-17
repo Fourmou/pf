@@ -1,5 +1,6 @@
 ---
 title: Mexico confirms first 2 cases of coronavirus
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T20:26:33.000Z

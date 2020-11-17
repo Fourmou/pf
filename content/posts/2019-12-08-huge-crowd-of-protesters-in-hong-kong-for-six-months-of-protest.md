@@ -1,5 +1,6 @@
 ---
 title: Huge crowd of protesters in Hong Kong for six months of protest
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-12-08T18:19:19.000Z

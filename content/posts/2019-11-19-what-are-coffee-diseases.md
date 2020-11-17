@@ -1,5 +1,6 @@
 ---
 title: What are coffee diseases?
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-19T07:08:35.000Z

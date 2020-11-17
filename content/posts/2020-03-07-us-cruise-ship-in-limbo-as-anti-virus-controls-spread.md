@@ -1,5 +1,6 @@
 ---
 title: US cruise ship in limbo as anti-virus controls spread
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-07T10:25:15.000Z

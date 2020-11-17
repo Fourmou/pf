@@ -1,5 +1,6 @@
 ---
 title: 46 health myths most people believe in
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-09-01T00:47:02.000Z

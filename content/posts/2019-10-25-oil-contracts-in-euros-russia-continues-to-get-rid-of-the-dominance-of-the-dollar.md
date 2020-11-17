@@ -1,5 +1,6 @@
 ---
 title: Oil contracts in euros Russia continues to get rid of the dominance of the dollar
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2019-10-25T21:10:29.000Z

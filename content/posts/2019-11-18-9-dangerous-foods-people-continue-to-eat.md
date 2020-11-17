@@ -1,5 +1,6 @@
 ---
 title: 9 dangerous foods people continue to eat
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-18T18:29:10.000Z

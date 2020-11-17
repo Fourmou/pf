@@ -1,5 +1,6 @@
 ---
 title: 6 stimulant alternatives that keep you away from coffee
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-24T05:28:54.000Z

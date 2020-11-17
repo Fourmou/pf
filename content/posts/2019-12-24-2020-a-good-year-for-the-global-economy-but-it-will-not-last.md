@@ -1,5 +1,6 @@
 ---
 title: '2020 a good year for the global economy, but it will not last'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2019-12-24T05:40:32.000Z

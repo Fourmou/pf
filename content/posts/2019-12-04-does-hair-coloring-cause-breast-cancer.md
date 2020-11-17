@@ -1,5 +1,6 @@
 ---
 title: Does hair coloring cause breast cancer? That's what you should know
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-12-04T15:05:46.000Z

@@ -1,5 +1,6 @@
 ---
 title: 'Gabbard ends long-shot 2020 bid, throws support to Biden'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-19T17:23:13.000Z

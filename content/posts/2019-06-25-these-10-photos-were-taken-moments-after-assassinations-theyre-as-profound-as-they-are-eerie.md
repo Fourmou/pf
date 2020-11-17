@@ -1,5 +1,6 @@
 ---
 title: These 10 Photos Were Taken Moments After Assassinations. They're As Profound As They Are Eerie.
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2019-06-25T00:52:27.000Z

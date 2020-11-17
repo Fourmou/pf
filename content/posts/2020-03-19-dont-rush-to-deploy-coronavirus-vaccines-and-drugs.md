@@ -1,5 +1,6 @@
 ---
 title: Don't rush to deploy coronavirus vaccines and drugs
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2020-03-19T11:25:35.000Z

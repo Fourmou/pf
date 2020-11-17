@@ -1,5 +1,6 @@
 ---
 title: 'Whistleblower: Feds helping evacuees lacked virus protection'
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-28T04:31:16.000Z

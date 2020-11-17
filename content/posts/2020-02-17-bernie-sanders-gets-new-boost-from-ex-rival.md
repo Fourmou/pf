@@ -1,5 +1,6 @@
 ---
 title: Bernie Sanders Gets New Boost From Ex-Rival
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-17T11:00:54.000Z

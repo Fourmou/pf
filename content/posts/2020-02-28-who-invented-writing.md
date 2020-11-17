@@ -1,5 +1,6 @@
 ---
 title: Who invented writing?
+categories: ["entertainment"]
 author: Nicole Karlis
 type: post
 categories: entertainment

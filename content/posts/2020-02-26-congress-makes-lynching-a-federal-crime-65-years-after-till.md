@@ -1,5 +1,6 @@
 ---
 title: 'Congress makes lynching a federal crime, 65 years after Till'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-02-26T20:25:25.000Z

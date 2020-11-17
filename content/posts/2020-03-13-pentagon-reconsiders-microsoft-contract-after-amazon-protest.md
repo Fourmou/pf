@@ -1,5 +1,6 @@
 ---
 title: Pentagon reconsiders Microsoft contract after Amazon protest
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-13T17:26:41.000Z

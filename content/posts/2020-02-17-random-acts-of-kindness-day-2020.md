@@ -1,5 +1,6 @@
 ---
 title: Random Acts of Kindness Day 2020 -- what will you do ?
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 categories: lifestyle

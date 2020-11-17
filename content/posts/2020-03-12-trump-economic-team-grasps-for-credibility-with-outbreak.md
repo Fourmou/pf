@@ -1,5 +1,6 @@
 ---
 title: Trump economic team grasps for credibility with outbreak
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-12T21:19:55.000Z

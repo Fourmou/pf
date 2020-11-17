@@ -1,5 +1,6 @@
 ---
 title: 'Not exactly gloating, stockpiling ‘preppers'' have a moment'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-15T18:17:12.000Z

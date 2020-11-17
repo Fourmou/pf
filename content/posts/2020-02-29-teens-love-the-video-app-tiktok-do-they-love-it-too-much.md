@@ -1,5 +1,6 @@
 ---
 title: Teens love the video app TikTok. Do they love it too much?
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-29T19:20:34.000Z

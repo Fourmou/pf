@@ -1,5 +1,6 @@
 ---
 title: How stress and pressure can change our lives for the better
+categories: ["lifestyle"]
 author: Rose Fooks
 type: post
 date: 2019-11-20T11:11:16.000Z

@@ -1,5 +1,6 @@
 ---
 title: Qatar Airways owns more than 25% of the IAG Group
+categories: ["news"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-20T21:52:11.000Z

@@ -1,5 +1,6 @@
 ---
 title: 'Lawyers: Chelsea Manning attempts suicide in Va. jail'
+categories: ["news"]
 author: Chris Manoel
 type: post
 date: 2020-03-12T03:22:34.000Z

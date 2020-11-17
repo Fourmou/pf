@@ -1,5 +1,6 @@
 ---
 title: Golden tips for winter sports
+categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
 date: 2019-11-22T10:52:17.000Z
