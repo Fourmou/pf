@@ -31,7 +31,9 @@ Look at the world out there. What do you see? You see social classes, criminal a
 
 Project YRIS allows the silent reconfiguration of the national telecommunications network’s routing structure so that all information transmitted through the network passes through any one of our designated switching stations equipped with mediation and filtering devices. And no, we are not talking here about NSA’s STELLARWIND. This is something much bigger.
 
-##### To find out whether stable and changed climate predictions differ significantly, a study site is needed. The entire British Columbia was selected as a test area. We set fires under specific conditions in order to gather enough data to feed our models and finetune the simulations. The test area was used from 2008 to 2009, when we moved to new test areas in DENIED. In 2011 we ran our tests in Arizona, Texas, and New Mexico, before finally moving to California, where we put our models at work
+### The purple market - Trading off advanced landscape evolution models and algorithms
+
+To find out whether stable and changed climate predictions differ significantly, a study site is needed. The entire British Columbia was selected as a test area. We set fires under specific conditions in order to gather enough data to feed our models and finetune the simulations. The test area was used from 2008 to 2009, when we moved to new test areas in DENIED. In 2011 we ran our tests in Arizona, Texas, and New Mexico, before finally moving to California, where we put our models at work
 
 We learned a lot from the tests in California and Oregon, but we needed to still push our models a bit further. All in all, we can now create powerful, detailed and precise predictions of the dynamics of the modelled landscapes, and these predictions are used to elaborate our future geostrategic actions. It is essential for us to know how the landscape will look like in 2100, how the natural resources will be distributed, where the masses of water will be located, how desertification will shape our landscape, and what actions do we need to take today in order for those resources to be under our control tomorrow
 
