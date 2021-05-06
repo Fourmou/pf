@@ -3,7 +3,7 @@
     <h1 class="site-title">
       <a href="{{ "/" | relURL }}"><img src="/images/logo.png" alt="logo"></a>
     </h1>
-    <a style="font-size: 8px; text-decoration: none" id="dark-mode-toggle" class="fa fa-moon-o">Dark Mode</a>
+    <a style="font-size: 8px; text-decoration: none" id="dark-mode-toggle" class="fal fa-moon-o">Dark Mode</a>
     <div class="topnav" id="myTopnav">
       {{- range .Site.Menus.main }}
       <a href="{{ .URL | safeURL }}" title="{{ .Name }}">{{ .Name }}</a>
@@ -21,9 +21,9 @@ var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
 setTheme(savedTheme);
   
 toggle.addEventListener("click", () => {
-    if (toggle.className === "fa fa-moon-o") {
+    if (toggle.className === "fal fa-moon-o") {
         setTheme("dark");
-    } else if (toggle.className === "fa fa-sun-o") {
+    } else if (toggle.className === "fal fa-sun-o") {
         setTheme("light");
     }
 });
@@ -32,10 +32,10 @@ function setTheme(mode) {
     localStorage.setItem("dark-mode-storage", mode);
     if (mode === "dark") {
         darkTheme.disabled = false;
-        toggle.className = "fa fa-sun-o";
+        toggle.className = "fal fa-sun-o";
     } else if (mode === "light") {
         darkTheme.disabled = true;
-        toggle.className = "fa fa-moon-o";
+        toggle.className = "fal fa-moon-o";
     }
 }
 </script>
