@@ -2,8 +2,8 @@
 type: post
 title: Joint Pain How Can I Keep My Joints Healthy? 
 categories:
-  - wellness
-author: Ashlie D. Stevens
+  - news
+author: Chris Manoel
 date: 2021-05-19T01:24:11.265Z
 image: /wp-content/uploads/joint.jpg
 tags:
