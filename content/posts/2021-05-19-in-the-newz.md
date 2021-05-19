@@ -4,7 +4,7 @@ title: Joint Pain How Can I Keep My Joints Healthy
 categories:
   - news
 author: Chris Manoel
-date: 2021-05-19T01:24:11.265Z
+date: 2021-05-18T01:10:11.265Z
 image: /wp-content/uploads/joint.jpg
 tags:
   - joints health
