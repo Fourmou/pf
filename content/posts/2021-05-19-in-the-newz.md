@@ -1,6 +1,6 @@
 ---
 type: post
-title: Joint Pain How Can I Keep My Joints Healthy? 
+title: Joint Pain How Can I Keep My Joints Healthy
 categories:
   - news
 author: Chris Manoel
